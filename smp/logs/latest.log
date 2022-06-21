@@ -1,3 +1,107 @@
-[10:30:31] [main/ERROR]: Failed to load properties from file: server.properties
-[10:30:31] [main/WARN]: Failed to load eula.txt
-[10:30:31] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[10:34:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:34:08] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[10:34:08] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:34:08] [Worker-Main-2/INFO]: Loaded 7 recipes
+[10:34:09] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[10:34:09] [Server thread/INFO]: Loading properties
+[10:34:09] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[10:34:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:34:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:34:09] [Server thread/INFO]: Debug logging is disabled
+[10:34:10] [Server thread/INFO]: Default game type: SURVIVAL
+[10:34:10] [Server thread/INFO]: Generating keypair
+[10:34:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:34:10] [Server thread/INFO]: Using epoll channel type
+[10:34:10] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:34:13] [Server thread/WARN]: Legacy plugin SetHome v5.1.2 does not specify an api-version.
+[10:34:13] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
+[10:34:13] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[10:34:13] [Server thread/INFO]: Preparing level "world"
+[10:34:15] [Server thread/WARN]: Unable to find spawn biome
+[10:34:16] [Server thread/WARN]: Unable to find spawn biome
+[10:34:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:34:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:34:16] [Server thread/INFO]: Time elapsed: 262 ms
+[10:34:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:34:16] [Server thread/INFO]: Time elapsed: 245 ms
+[10:34:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:34:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:34:17] [Server thread/INFO]: Time elapsed: 275 ms
+[10:34:17] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2*
+[10:34:17] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[10:34:17] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[10:34:17] [Server thread/INFO]: Starting GS4 status listener
+[10:34:17] [Server thread/INFO]: Thread Query Listener started
+[10:34:17] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[10:34:17] [Server thread/INFO]: Running delayed init tasks
+[10:34:17] [Server thread/INFO]: Done (7.516s)! For help, type "help"
+[10:34:17] [Server thread/INFO]: Timings Reset
+[10:36:08] [User Authenticator #1/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:36:08] [Server thread/INFO]: HaxorBeing joined the game
+[10:36:08] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:50396] logged in with entity id 556 at ([world]-240.5, 64.0, 81.5)
+[10:36:15] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:36:15] [Server thread/INFO]: bruhTM_ joined the game
+[10:36:15] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:50398] logged in with entity id 663 at ([world]-248.5, 74.0, 70.5)
+[10:36:30] [Server thread/INFO]: bruhTM_ issued server command: /ping
+[10:36:59] [Server thread/INFO]: HaxorBeing has made the advancement [Stone Age]
+[10:37:21] [Server thread/INFO]: bruhTM_ issued server command: /ping
+[10:37:34] [Server thread/INFO]: HaxorBeing has made the advancement [Getting an Upgrade]
+[10:38:37] [Server thread/INFO]: bruhTM_ issued server command: /gc
+[10:39:05] [Async Chat Thread - #0/INFO]: <bruhTM_> bro wya
+[10:39:57] [Server thread/INFO]: bruhTM_ has made the advancement [Stone Age]
+[10:40:08] [Async Chat Thread - #1/INFO]: <HaxorBeing> 244 64 95
+[10:40:09] [Server thread/INFO]: Made bruhTM_ a server operator
+[10:40:17] [Server thread/INFO]: bruhTM_ issued server command: /difficulty
+[10:40:29] [Server thread/INFO]: bruhTM_ has made the advancement [Getting an Upgrade]
+[10:45:26] [Server thread/INFO]: HaxorBeing has made the advancement [Sweet Dreams]
+[10:45:37] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[10:45:37] [Server thread/INFO]: bruhTM_ left the game
+[10:45:43] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:45:43] [Server thread/INFO]: bruhTM_ joined the game
+[10:45:43] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:50484] logged in with entity id 1807 at ([world]-237.69999998807907, 69.0, 115.43142176378674)
+[10:47:10] [Server thread/INFO]: HaxorBeing lost connection: Timed out
+[10:47:10] [Server thread/INFO]: HaxorBeing left the game
+[10:52:31] [Server thread/INFO]: bruhTM_ has made the advancement [Monster Hunter]
+[10:52:31] [User Authenticator #3/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:52:31] [Server thread/INFO]: HaxorBeing joined the game
+[10:52:31] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:50540] logged in with entity id 2751 at ([world]-239.57145549297354, 64.0, 87.58127111966454)
+[10:54:02] [Server thread/INFO]: bruhTM_ has made the advancement [Acquire Hardware]
+[10:55:15] [Server thread/INFO]: HaxorBeing has made the advancement [Monster Hunter]
+[10:55:27] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[10:55:27] [Server thread/INFO]: bruhTM_ left the game
+[10:56:17] [Server thread/INFO]: HaxorBeing has made the advancement [Acquire Hardware]
+[10:58:26] [User Authenticator #4/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:58:27] [Server thread/INFO]: bruhTM_ joined the game
+[10:58:27] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:50570] logged in with entity id 3527 at ([world]-345.36508182066785, 32.0, 146.52246562087734)
+[10:58:56] [Server thread/INFO]: HaxorBeing has made the advancement [Not Today, Thank You]
+[11:00:11] [Server thread/INFO]: HaxorBeing has made the advancement [Suit Up]
+[11:03:53] [Async Chat Thread - #2/INFO]: <HaxorBeing> gtg
+[11:03:54] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[11:03:54] [Server thread/INFO]: HaxorBeing left the game
+[11:04:02] [Async Chat Thread - #2/INFO]: <bruhTM_> alr bro
+[11:06:30] [Server thread/INFO]: bruhTM_ has made the advancement [Suit Up]
+[11:11:11] [Server thread/INFO]: bruhTM_ issued server command: /ping
+[11:16:45] [Server thread/INFO]: bruhTM_ issued server command: /save-all
+[11:16:45] [Server thread/INFO]: [bruhTM_: Saved the game]
+[11:17:07] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[11:17:07] [Server thread/INFO]: bruhTM_ left the game
+[11:17:15] [Server thread/INFO]: Stopping the server
+[11:17:15] [Server thread/INFO]: Stopping server
+[11:17:15] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[11:17:15] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[11:17:15] [Server thread/INFO]: [SetHome] Disabling SetHome v5.1.2
+[11:17:15] [Server thread/INFO]: Saving players
+[11:17:16] [Server thread/INFO]: Saving worlds
+[11:17:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:17:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:17:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:17:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:17:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:17:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:17:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:17:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:17:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:17:16] [Server thread/INFO]: Flushing Chunk IO
+[11:17:16] [Server thread/INFO]: Closing Thread Pool
+[11:17:16] [Server thread/INFO]: Closing Server
