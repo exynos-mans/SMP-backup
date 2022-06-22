@@ -1,66 +1,72 @@
-[10:56:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:56:22] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[10:56:23] [Worker-Main-2/INFO]: Loaded 7 recipes
-[10:56:24] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[10:56:24] [Server thread/INFO]: Loading properties
-[10:56:24] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[10:56:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[10:56:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[10:56:24] [Server thread/INFO]: Debug logging is disabled
-[10:56:24] [Server thread/INFO]: Default game type: SURVIVAL
-[10:56:24] [Server thread/INFO]: Generating keypair
-[10:56:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:56:25] [Server thread/INFO]: Using epoll channel type
-[10:56:25] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[10:56:30] [Server thread/WARN]: Legacy plugin SetHome v5.1.2 does not specify an api-version.
-[10:56:30] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
-[10:56:30] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
-[10:56:30] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
-[10:56:30] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
-[10:56:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[10:56:30] [Server thread/INFO]: Preparing level "world"
-[10:56:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:56:31] [Server thread/INFO]: Preparing spawn area: 0%
-[10:56:31] [Server thread/INFO]: Preparing spawn area: 0%
-[10:56:31] [Server thread/INFO]: Time elapsed: 960 ms
-[10:56:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[10:56:31] [Server thread/INFO]: Preparing spawn area: 0%
-[10:56:32] [Worker-Main-2/INFO]: Preparing spawn area: 37%
-[10:56:32] [Server thread/INFO]: Time elapsed: 876 ms
-[10:56:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[10:56:32] [Server thread/INFO]: Preparing spawn area: 0%
-[10:56:33] [Server thread/INFO]: Time elapsed: 460 ms
-[10:56:33] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2*
-[10:56:33] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[10:56:33] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[10:56:33] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
-[10:56:33] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[10:56:33] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[10:56:33] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[10:56:33] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[10:56:33] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[10:56:33] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
-[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
-[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
-[10:56:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[10:56:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[10:56:33] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[10:56:33] [Server thread/INFO]: [Essentials] Starting usermap repair
-[10:56:33] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
-[10:56:33] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
-[10:56:33] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
-[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
-[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
-[10:56:34] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
-[10:56:34] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
-[10:56:34] [Server thread/INFO]: [Essentials] Using locale en_US
-[10:56:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[10:56:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[10:56:34] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[10:56:34] [Server thread/INFO]: Starting GS4 status listener
-[10:56:34] [Server thread/INFO]: Thread Query Listener started
-[10:56:34] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[10:56:34] [Server thread/INFO]: Running delayed init tasks
-[10:56:34] [Craft Scheduler Thread - 1/INFO]: [Essentials] Fetching version information...
-[10:56:34] [Server thread/INFO]: Done (9.694s)! For help, type "help"
-[10:56:34] [Server thread/INFO]: Timings Reset
+[11:03:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:03:10] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:03:10] [Worker-Main-2/INFO]: Loaded 7 recipes
+[11:03:11] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[11:03:11] [Server thread/INFO]: Loading properties
+[11:03:11] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[11:03:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:03:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:03:11] [Server thread/INFO]: Debug logging is disabled
+[11:03:12] [Server thread/INFO]: Default game type: SURVIVAL
+[11:03:12] [Server thread/INFO]: Generating keypair
+[11:03:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:03:12] [Server thread/INFO]: Using epoll channel type
+[11:03:12] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11:03:17] [Server thread/WARN]: Legacy plugin SetHome v5.1.2 does not specify an api-version.
+[11:03:17] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
+[11:03:17] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[11:03:17] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
+[11:03:17] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[11:03:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:03:17] [Server thread/INFO]: Preparing level "world"
+[11:03:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:03:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:03:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:03:18] [Server thread/INFO]: Time elapsed: 718 ms
+[11:03:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:03:18] [Server thread/INFO]: Preparing spawn area: 0%
+[11:03:18] [Worker-Main-4/INFO]: Preparing spawn area: 100%
+[11:03:18] [Server thread/INFO]: Time elapsed: 514 ms
+[11:03:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:03:18] [Server thread/INFO]: Preparing spawn area: 0%
+[11:03:19] [Server thread/INFO]: Time elapsed: 406 ms
+[11:03:19] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2*
+[11:03:19] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[11:03:19] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[11:03:19] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
+[11:03:19] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[11:03:19] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[11:03:19] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[11:03:19] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[11:03:19] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[11:03:19] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[11:03:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[11:03:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[11:03:19] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[11:03:19] [Server thread/INFO]: [Essentials] Starting usermap repair
+[11:03:19] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[11:03:19] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[11:03:19] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[11:03:19] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[11:03:19] [Server thread/INFO]: [Essentials] Using locale en_US
+[11:03:19] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[11:03:19] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[11:03:19] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[11:03:19] [Server thread/INFO]: Starting GS4 status listener
+[11:03:19] [Server thread/INFO]: Thread Query Listener started
+[11:03:19] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[11:03:19] [Server thread/INFO]: Running delayed init tasks
+[11:03:19] [Craft Scheduler Thread - 2/INFO]: [Essentials] Fetching version information...
+[11:03:19] [Server thread/INFO]: Done (8.136s)! For help, type "help"
+[11:03:19] [Server thread/INFO]: Timings Reset
+[11:03:22] [Server thread/INFO]: [AngelChest] ========================================================
+[11:03:22] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[11:03:22] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[11:03:22] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[11:03:22] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[11:03:22] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[11:03:22] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[11:03:22] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[11:03:22] [Server thread/INFO]: [AngelChest] 
+[11:03:22] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[11:03:22] [Server thread/INFO]: [AngelChest] ========================================================
