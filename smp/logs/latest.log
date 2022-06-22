@@ -112,3 +112,125 @@
 [11:31:34] [Server thread/INFO]: bruhTM_ issued server command: /homes
 [11:31:37] [Server thread/INFO]: bruhTM_ issued server command: /home list
 [11:31:53] [Server thread/INFO]: bruhTM_ issued server command: /essentials:home
+[11:32:26] [Server thread/INFO]: bruhTM_ issued server command: /reload
+[11:32:26] [Server thread/INFO]: bruhTM_: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[11:32:31] [Server thread/INFO]: bruhTM_ issued server command: /reload confirm
+[11:32:31] [Server thread/INFO]: bruhTM_: Please note that this command is not supported and may cause issues when using some plugins.
+[11:32:31] [Server thread/INFO]: bruhTM_: If you encounter any issues please use the /stop command to restart your server.
+[11:32:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:32:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:32:31] [Server thread/INFO]: Debug logging is disabled
+[11:32:31] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[11:32:31] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[11:32:31] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[11:32:31] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[11:32:31] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[11:32:31] [Server thread/INFO]: [SetHome] Disabling SetHome v5.1.2
+[11:32:32] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:32:32] [Server thread/INFO]: Loaded 7 recipes
+[11:32:32] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:32:33] [Server thread/INFO]: Loaded 7 recipes
+[11:32:34] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[11:32:34] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
+[11:32:34] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[11:32:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:32:34] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[11:32:34] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[11:32:34] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
+[11:32:34] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[11:32:34] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[11:32:34] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[11:32:34] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[11:32:34] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[11:32:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[11:32:34] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[11:32:34] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[11:32:34] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[11:32:34] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[11:32:34] [Server thread/INFO]: [Essentials] Converted 0/1
+[11:32:34] [Server thread/INFO]: [Essentials] Ban format update complete.
+[11:32:34] [Server thread/INFO]: [Essentials] Starting usermap repair
+[11:32:34] [Server thread/INFO]: [Essentials] Reading: 0.00%
+[11:32:34] [Server thread/INFO]: [Essentials] Completed usermap repair.
+[11:32:34] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[11:32:34] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[11:32:34] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[11:32:34] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[11:32:34] [Server thread/INFO]: [Essentials] Done converting mail list.
+[11:32:34] [Server thread/INFO]: [Essentials] #===========================================================================#
+[11:32:34] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[11:32:34] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[11:32:34] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[11:32:34] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[11:32:34] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[11:32:34] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[11:32:34] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[11:32:34] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[11:32:34] [Server thread/INFO]: [Essentials] 
+[11:32:34] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[11:32:34] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[11:32:34] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[11:32:34] [Server thread/INFO]: [Essentials] #===========================================================================#
+[11:32:34] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[11:32:34] [Server thread/INFO]: [Essentials] #===========================================================================#
+[11:32:34] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[11:32:34] [Server thread/INFO]: [Essentials] 
+[11:32:34] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[11:32:34] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[11:32:34] [Server thread/INFO]: [Essentials] 
+[11:32:34] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[11:32:34] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[11:32:34] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[11:32:34] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[11:32:34] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[11:32:34] [Server thread/INFO]: [Essentials] #===========================================================================#
+[11:32:35] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[11:32:35] [Server thread/INFO]: [Essentials] Using locale en_US
+[11:32:35] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[11:32:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[11:32:35] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[11:32:35] [Server thread/INFO]: bruhTM_: Reload complete.
+[11:32:35] [Server thread/INFO]: Timings Reset
+[11:32:35] [Craft Scheduler Thread - 178/INFO]: [Essentials] Fetching version information...
+[11:32:36] [Server thread/INFO]: [AngelChest] ========================================================
+[11:32:36] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[11:32:36] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[11:32:36] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[11:32:36] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[11:32:36] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[11:32:36] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[11:32:36] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[11:32:36] [Server thread/INFO]: [AngelChest] 
+[11:32:36] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[11:32:36] [Server thread/INFO]: [AngelChest] ========================================================
+[11:32:49] [Server thread/INFO]: bruhTM_ issued server command: /sethome
+[11:32:51] [Server thread/INFO]: bruhTM_ issued server command: /homes
+[11:32:58] [Server thread/INFO]: bruhTM_ issued server command: /sethome nether_portal
+[11:33:01] [Server thread/INFO]: bruhTM_ issued server command: /home nether_portal
+[11:33:02] [Server thread/INFO]: bruhTM_ issued server command: /home
+[11:33:05] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[11:33:07] [Server thread/INFO]: bruhTM_ issued server command: /homes
+[11:33:13] [Server thread/INFO]: bruhTM_ issued server command: /homes
+[11:36:24] [Server thread/INFO]: bruhTM_ issued server command: /stop
+[11:36:24] [Server thread/INFO]: [bruhTM_: Stopping the server]
+[11:36:24] [Server thread/INFO]: Stopping server
+[11:36:24] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[11:36:24] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[11:36:24] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[11:36:24] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[11:36:24] [Server thread/INFO]: Saving players
+[11:36:24] [Server thread/INFO]: bruhTM_ lost connection: Server closed
+[11:36:24] [Server thread/INFO]: bruhTM_ left the game
+[11:36:24] [Server thread/INFO]: Saving worlds
+[11:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:36:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:36:24] [Server thread/INFO]: Flushing Chunk IO
+[11:36:24] [Server thread/INFO]: Closing Thread Pool
+[11:36:24] [Server thread/INFO]: Closing Server
