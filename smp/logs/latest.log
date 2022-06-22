@@ -93,3 +93,22 @@
 [11:23:00] [Server thread/INFO]: [bruhTM_: Created new objective [health]]
 [11:23:06] [Server thread/INFO]: bruhTM_ issued server command: /scoreboard objectives setdisplay list health
 [11:23:06] [Server thread/INFO]: [bruhTM_: Set display slot list to show objective health]
+[11:28:02] [Server thread/INFO]: bruhTM_ issued server command: /gamemode c
+[11:28:07] [Server thread/INFO]: bruhTM_ issued server command: /effect clear
+[11:28:07] [Server thread/INFO]: [bruhTM_: Removed every effect from bruhTM_]
+[11:28:11] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
+[11:28:51] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[11:28:51] [Server thread/INFO]: bruhTM_ left the game
+[11:28:54] [User Authenticator #3/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[11:28:54] [Server thread/INFO]: bruhTM_ joined the game
+[11:28:54] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:36582] logged in with entity id 3343 at ([world_nether]-67.06548124635829, 26.868128827436607, -13.81704659429578)
+[11:28:57] [Server thread/INFO]: bruhTM_ issued server command: /gamemode c
+[11:29:10] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
+[11:30:58] [Server thread/INFO]: bruhTM_ issued server command: /sethome
+[11:31:01] [Server thread/INFO]: bruhTM_ issued server command: /homes
+[11:31:03] [Server thread/INFO]: bruhTM_ issued server command: /home
+[11:31:19] [Server thread/INFO]: bruhTM_ issued server command: /home nether_portal
+[11:31:31] [Server thread/INFO]: bruhTM_ issued server command: /sethome urs
+[11:31:34] [Server thread/INFO]: bruhTM_ issued server command: /homes
+[11:31:37] [Server thread/INFO]: bruhTM_ issued server command: /home list
+[11:31:53] [Server thread/INFO]: bruhTM_ issued server command: /essentials:home
