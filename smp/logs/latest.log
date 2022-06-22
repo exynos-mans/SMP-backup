@@ -86,3 +86,10 @@
 [11:15:32] [Server thread/INFO]: bruhTM_ issued server command: /ping
 [11:17:05] [Server thread/INFO]: bruhTM_ issued server command: /gc
 [11:18:00] [Server thread/INFO]: bruhTM_ has made the advancement [Hot Stuff]
+[11:21:37] [Server thread/INFO]: bruhTM_ issued server command: /helpop
+[11:21:43] [Server thread/INFO]: bruhTM_ issued server command: /help
+[11:22:02] [Server thread/INFO]: bruhTM_ issued server command: /help spigotping
+[11:23:00] [Server thread/INFO]: bruhTM_ issued server command: /scoreboard objectives add health health
+[11:23:00] [Server thread/INFO]: [bruhTM_: Created new objective [health]]
+[11:23:06] [Server thread/INFO]: bruhTM_ issued server command: /scoreboard objectives setdisplay list health
+[11:23:06] [Server thread/INFO]: [bruhTM_: Set display slot list to show objective health]
