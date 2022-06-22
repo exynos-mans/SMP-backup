@@ -70,3 +70,15 @@
 [11:03:22] [Server thread/INFO]: [AngelChest] 
 [11:03:22] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [11:03:22] [Server thread/INFO]: [AngelChest] ========================================================
+[11:06:19] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[11:06:20] [Server thread/INFO]: bruhTM_ joined the game
+[11:06:20] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:36406] logged in with entity id 162 at ([world]-501.87925170199014, 68.0, -192.44186490679832)
+[11:06:20] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[11:08:36] [Server thread/INFO]: bruhTM_ issued server command: /sethome nether_portal\
+[11:08:42] [Server thread/INFO]: bruhTM_ issued server command: /gc
+[11:09:01] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[11:09:01] [Server thread/INFO]: bruhTM_ left the game
+[11:10:43] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[11:10:43] [Server thread/INFO]: bruhTM_ joined the game
+[11:10:43] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:36428] logged in with entity id 1001 at ([world]-652.1111728572027, 72.0, -121.14641966262928)
+[11:10:48] [Server thread/INFO]: bruhTM_ issued server command: /gc
