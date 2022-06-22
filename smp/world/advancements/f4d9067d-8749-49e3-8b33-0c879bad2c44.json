@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2022-06-22 10:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2022-06-21 10:45:14 +0000"
@@ -260,6 +266,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2022-06-21 10:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2022-06-22 10:12:31 +0000"
     },
     "done": true
   },
@@ -648,7 +660,8 @@
       "minecraft:forest": "2022-06-21 10:36:15 +0000",
       "minecraft:mountains": "2022-06-21 10:49:22 +0000",
       "minecraft:snowy_tundra": "2022-06-21 10:37:53 +0000",
-      "minecraft:wooded_hills": "2022-06-21 10:48:50 +0000"
+      "minecraft:wooded_hills": "2022-06-21 10:48:50 +0000",
+      "minecraft:plains": "2022-06-22 10:10:39 +0000"
     },
     "done": false
   },
@@ -876,11 +889,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-06-22 10:18:51 +0000",
       "minecraft:spider": "2022-06-21 10:52:31 +0000",
       "minecraft:creeper": "2022-06-21 10:52:32 +0000",
       "minecraft:zombie": "2022-06-21 11:06:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2022-06-22 10:10:22 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
@@ -969,6 +989,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2022-06-21 10:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-06-22 10:10:22 +0000"
     },
     "done": true
   },
