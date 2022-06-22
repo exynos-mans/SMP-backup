@@ -65,3 +65,21 @@
 [09:59:46] [Server thread/INFO]: bruhTM_ joined the game
 [09:59:46] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:53456] logged in with entity id 7909 at ([world]-232.02594978180454, 69.0, 115.62530760576684)
 [10:06:17] [Server thread/INFO]: bruhTM_ has made the advancement [Isn't It Iron Pick]
+[10:07:02] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[10:07:02] [Server thread/INFO]: bruhTM_ left the game
+[10:07:10] [Server thread/INFO]: Incorrect argument for command
+[10:07:10] [Server thread/INFO]: gamemode c<--[HERE]
+[10:07:15] [Server thread/INFO]: A player is required to run this command here
+[10:07:30] [User Authenticator #4/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:07:30] [Server thread/INFO]: bruhTM_ joined the game
+[10:07:30] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:53524] logged in with entity id 8794 at ([world]-422.69999998807907, 36.10295750359662, 20.116431640131278)
+[10:07:31] [Server thread/INFO]: Set bruhTM_'s game mode to Creative Mode
+[10:07:49] [Server thread/INFO]: bruhTM_ issued server command: /gamemode s
+[10:07:52] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
+[10:07:52] [Server thread/INFO]: [bruhTM_: Set own game mode to Survival Mode]
+[10:08:54] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[10:08:54] [Server thread/INFO]: bruhTM_ left the game
+[10:09:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@b085384f[id=<null>,name=bruhTM_,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:53540) lost connection: Disconnected
+[10:09:24] [User Authenticator #5/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:09:24] [Server thread/INFO]: bruhTM_ joined the game
+[10:09:24] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:53544] logged in with entity id 8930 at ([world]-410.69050348749363, 23.0, 9.02241580532015)
