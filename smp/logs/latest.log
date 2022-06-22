@@ -1,88 +1,66 @@
-[08:47:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:47:54] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[08:47:54] [Worker-Main-2/INFO]: Loaded 7 recipes
-[08:47:55] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[08:47:55] [Server thread/INFO]: Loading properties
-[08:47:56] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[08:47:56] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:47:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:47:56] [Server thread/INFO]: Debug logging is disabled
-[08:47:56] [Server thread/INFO]: Default game type: SURVIVAL
-[08:47:56] [Server thread/INFO]: Generating keypair
-[08:47:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:47:56] [Server thread/INFO]: Using epoll channel type
-[08:47:56] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[08:47:59] [Server thread/WARN]: Legacy plugin SetHome v5.1.2 does not specify an api-version.
-[08:47:59] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
-[08:47:59] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
-[08:47:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:47:59] [Server thread/INFO]: Preparing level "world"
-[08:48:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:48:00] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:00] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:01] [Server thread/INFO]: Preparing spawn area: 1%
-[08:48:01] [Server thread/INFO]: Time elapsed: 1115 ms
-[08:48:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:48:01] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:01] [Worker-Main-4/INFO]: Preparing spawn area: 97%
-[08:48:01] [Server thread/INFO]: Time elapsed: 563 ms
-[08:48:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:48:01] [Server thread/INFO]: Preparing spawn area: 0%
-[08:48:02] [Server thread/INFO]: Time elapsed: 332 ms
-[08:48:02] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2*
-[08:48:02] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[08:48:02] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[08:48:02] [Server thread/INFO]: Starting GS4 status listener
-[08:48:02] [Server thread/INFO]: Thread Query Listener started
-[08:48:02] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[08:48:02] [Server thread/INFO]: Running delayed init tasks
-[08:48:02] [Server thread/INFO]: Done (6.374s)! For help, type "help"
-[08:48:02] [Server thread/INFO]: Timings Reset
-[08:56:13] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[08:56:13] [Server thread/INFO]: bruhTM_ joined the game
-[08:56:14] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:48382] logged in with entity id 277 at ([world]-233.99668694584054, 68.35190963627379, 101.53029984655154)
-[08:58:59] [User Authenticator #2/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
-[08:58:59] [Server thread/INFO]: HaxorBeing joined the game
-[08:58:59] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:49710] logged in with entity id 526 at ([world]-275.30000001192093, 33.0, 131.69999998807907)
-[09:02:17] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
-[09:02:17] [Server thread/INFO]: bruhTM_ left the game
-[09:07:07] [Server thread/INFO]: HaxorBeing has made the advancement [Hot Stuff]
-[09:17:14] [Server thread/INFO]: [Server] killed HaxorBeing
-[09:18:40] [Server thread/INFO]: HaxorBeing has made the advancement [Ice Bucket Challenge]
-[09:21:23] [Server thread/INFO]: [Server] me gonna eat lunch and come ok?
-[09:21:26] [Server thread/INFO]: [Server] 30min
-[09:21:27] [Async Chat Thread - #0/INFO]: <HaxorBeing> ok
-[09:21:29] [Server thread/INFO]: [Server] ok
-[09:21:32] [Server thread/INFO]: [Server] u play
-[09:21:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[09:21:40] [Async Chat Thread - #0/INFO]: <HaxorBeing> k
-[09:26:25] [Async Chat Thread - #1/INFO]: <HaxorBeing> v
-[09:30:40] [Server thread/INFO]: HaxorBeing has made the advancement [Isn't It Iron Pick]
-[09:32:31] [Server thread/INFO]: [Server] 30min
-[09:45:05] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
-[09:45:05] [Server thread/INFO]: HaxorBeing left the game
-[09:59:46] [User Authenticator #3/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[09:59:46] [Server thread/INFO]: bruhTM_ joined the game
-[09:59:46] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:53456] logged in with entity id 7909 at ([world]-232.02594978180454, 69.0, 115.62530760576684)
-[10:06:17] [Server thread/INFO]: bruhTM_ has made the advancement [Isn't It Iron Pick]
-[10:07:02] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
-[10:07:02] [Server thread/INFO]: bruhTM_ left the game
-[10:07:10] [Server thread/INFO]: Incorrect argument for command
-[10:07:10] [Server thread/INFO]: gamemode c<--[HERE]
-[10:07:15] [Server thread/INFO]: A player is required to run this command here
-[10:07:30] [User Authenticator #4/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[10:07:30] [Server thread/INFO]: bruhTM_ joined the game
-[10:07:30] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:53524] logged in with entity id 8794 at ([world]-422.69999998807907, 36.10295750359662, 20.116431640131278)
-[10:07:31] [Server thread/INFO]: Set bruhTM_'s game mode to Creative Mode
-[10:07:49] [Server thread/INFO]: bruhTM_ issued server command: /gamemode s
-[10:07:52] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
-[10:07:52] [Server thread/INFO]: [bruhTM_: Set own game mode to Survival Mode]
-[10:08:54] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
-[10:08:54] [Server thread/INFO]: bruhTM_ left the game
-[10:09:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@b085384f[id=<null>,name=bruhTM_,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:53540) lost connection: Disconnected
-[10:09:24] [User Authenticator #5/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[10:09:24] [Server thread/INFO]: bruhTM_ joined the game
-[10:09:24] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:53544] logged in with entity id 8930 at ([world]-410.69050348749363, 23.0, 9.02241580532015)
-[10:20:21] [Server thread/INFO]: bruhTM_ has made the advancement [Not Today, Thank You]
-[10:33:52] [Server thread/INFO]: bruhTM_ has made the advancement [Sweet Dreams]
-[10:33:55] [Async Chat Thread - #2/INFO]: <bruhTM_> yo mama
+[10:56:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:56:22] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:56:23] [Worker-Main-2/INFO]: Loaded 7 recipes
+[10:56:24] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[10:56:24] [Server thread/INFO]: Loading properties
+[10:56:24] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[10:56:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:56:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:56:24] [Server thread/INFO]: Debug logging is disabled
+[10:56:24] [Server thread/INFO]: Default game type: SURVIVAL
+[10:56:24] [Server thread/INFO]: Generating keypair
+[10:56:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:56:25] [Server thread/INFO]: Using epoll channel type
+[10:56:25] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:56:30] [Server thread/WARN]: Legacy plugin SetHome v5.1.2 does not specify an api-version.
+[10:56:30] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
+[10:56:30] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[10:56:30] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
+[10:56:30] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[10:56:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:56:30] [Server thread/INFO]: Preparing level "world"
+[10:56:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:56:31] [Server thread/INFO]: Preparing spawn area: 0%
+[10:56:31] [Server thread/INFO]: Preparing spawn area: 0%
+[10:56:31] [Server thread/INFO]: Time elapsed: 960 ms
+[10:56:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:56:31] [Server thread/INFO]: Preparing spawn area: 0%
+[10:56:32] [Worker-Main-2/INFO]: Preparing spawn area: 37%
+[10:56:32] [Server thread/INFO]: Time elapsed: 876 ms
+[10:56:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:56:32] [Server thread/INFO]: Preparing spawn area: 0%
+[10:56:33] [Server thread/INFO]: Time elapsed: 460 ms
+[10:56:33] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2*
+[10:56:33] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[10:56:33] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[10:56:33] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
+[10:56:33] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[10:56:33] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[10:56:33] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[10:56:33] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[10:56:33] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[10:56:33] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[10:56:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:56:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:56:33] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[10:56:33] [Server thread/INFO]: [Essentials] Starting usermap repair
+[10:56:33] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[10:56:33] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[10:56:33] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[10:56:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[10:56:34] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[10:56:34] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[10:56:34] [Server thread/INFO]: [Essentials] Using locale en_US
+[10:56:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:56:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:56:34] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[10:56:34] [Server thread/INFO]: Starting GS4 status listener
+[10:56:34] [Server thread/INFO]: Thread Query Listener started
+[10:56:34] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[10:56:34] [Server thread/INFO]: Running delayed init tasks
+[10:56:34] [Craft Scheduler Thread - 1/INFO]: [Essentials] Fetching version information...
+[10:56:34] [Server thread/INFO]: Done (9.694s)! For help, type "help"
+[10:56:34] [Server thread/INFO]: Timings Reset
