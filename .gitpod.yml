@@ -6,26 +6,11 @@ ports:
     onOpen: ignore
 
 tasks:
-  - name: install pre-commit git hooks
-    init: pre-commit install
-  - name: start up buildkitd
+  - name: export java
     command: |
-      sudo /usr/bin/buildkitd --debug  --config ./buildkitd.toml --group gitpod
-  - name: start a local docker registry
-    command: |
-      mkdir -p /workspace/registry
-      docker run -p 5000:5000 --name registry --rm -v /workspace/registry:/var/lib/registry registry:2
-    openMode: split-right
-  - name: dazzle build and test
-    command: |
-      gp await-port 5000
-      REPO=localhost:5000/dazzle
-      echo "To build specific chunks and combine them 'time ./build-chunk.sh  -c chunk1 -c chunk2:variant1.2.3 -n combo'"
-      echo "To build all the chunks and combinations 'time ./build-all.sh'"
-      echo "To build a specific combination 'time ./build-combo.sh combo'"
-      echo "To list image chunks 'dazzle project image-name $REPO'"
-      echo "To list hashes for image chunks 'dazzle project hash $REPO'"
-      echo "To print the combined image maniest 'dazzle project manifest $REPO'"
+      export JAVA_HOME=/workspace/workspace-images/tools/jdk-16.0.2+7
+      export PATH=$JAVA_HOME/bin:"$PATH"
+      java -version
 
     openMode: tab-after
 
