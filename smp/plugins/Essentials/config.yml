@@ -286,7 +286,7 @@ player-commands:
   - seen
   - sell
   - sethome
-  - setxmpp
+  - acretrieve
   - signs.create.protection
   - signs.create.trade
   - signs.break.protection

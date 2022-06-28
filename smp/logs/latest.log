@@ -155,3 +155,34 @@
 [10:07:56] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56124] logged in with entity id 4769 at ([world_nether]-66.78018738560165, 25.82581937330046, -11.724356031578429)
 [10:08:00] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
 [10:08:00] [Server thread/INFO]: HaxorBeing left the game
+[10:24:44] [User Authenticator #5/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:24:44] [Server thread/INFO]: bruhTM_ joined the game
+[10:24:44] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:56162] logged in with entity id 4787 at ([world]-644.6868402182205, 72.0, -122.61067826941499)
+[10:25:07] [User Authenticator #5/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:25:07] [Server thread/INFO]: HaxorBeing joined the game
+[10:25:07] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56166] logged in with entity id 5046 at ([world_nether]-66.78018738560165, 25.67558693828217, -11.724356031578429)
+[10:25:11] [Server thread/INFO]: HaxorBeing tried to swim in lava
+[10:25:27] [Async Chat Thread - #7/INFO]: <bruhTM_> ./acretrieve
+[10:25:37] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
+[10:25:41] [Async Chat Thread - #7/INFO]: <HaxorBeing> lol no permission
+[10:25:50] [Async Chat Thread - #7/INFO]: <HaxorBeing> yes'
+[10:25:59] [Async Chat Thread - #7/INFO]: <HaxorBeing> give op
+[10:26:05] [Server thread/INFO]: bruhTM_ issued server command: /op HaxorBeing
+[10:26:05] [Server thread/INFO]: [bruhTM_: Made HaxorBeing a server operator]
+[10:26:11] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
+[10:26:15] [Async Chat Thread - #7/INFO]: <HaxorBeing> yay
+[10:26:19] [Server thread/INFO]: bruhTM_ issued server command: /deop HaxorBeing
+[10:26:19] [Server thread/INFO]: [bruhTM_: Made HaxorBeing no longer a server operator]
+[10:26:21] [Async Chat Thread - #7/INFO]: <HaxorBeing> bruh
+[10:26:57] [Async Chat Thread - #7/INFO]: <HaxorBeing> classic 2012 house
+[10:30:12] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
+[10:30:23] [Async Chat Thread - #8/INFO]: <HaxorBeing> no permission
+[10:30:36] [Server thread/INFO]: bruhTM_ issued server command: /essentials re
+[10:30:44] [Server thread/INFO]: bruhTM_ issued server command: /essentials reload
+[10:30:44] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[10:30:44] [Server thread/INFO]: [Essentials] Using locale en_US
+[10:30:44] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:30:59] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
+[10:31:01] [Async Chat Thread - #8/INFO]: <HaxorBeing> no permission
+[10:31:11] [Async Chat Thread - #8/INFO]: <HaxorBeing> just give op
+[10:31:12] [Async Chat Thread - #8/INFO]: <HaxorBeing> done ez
