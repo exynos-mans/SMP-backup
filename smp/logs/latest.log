@@ -1,220 +1,105 @@
-[09:26:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:26:49] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[09:26:51] [Worker-Main-1/INFO]: Loaded 7 recipes
-[09:26:52] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[09:26:52] [Server thread/INFO]: Loading properties
-[09:26:52] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[09:26:52] [Server thread/INFO]: Using 4 threads for Netty based IO
-[09:26:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[09:26:52] [Server thread/INFO]: Debug logging is disabled
-[09:26:52] [Server thread/INFO]: Default game type: SURVIVAL
-[09:26:52] [Server thread/INFO]: Generating keypair
-[09:26:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:26:53] [Server thread/INFO]: Using epoll channel type
-[09:26:53] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
-[09:26:53] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
-[09:26:53] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
-[09:26:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[09:26:53] [Server thread/INFO]: Preparing level "world"
-[09:26:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[09:26:54] [Server thread/INFO]: Preparing spawn area: 0%
-[09:26:54] [Server thread/INFO]: Time elapsed: 794 ms
-[09:26:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[09:26:55] [Server thread/INFO]: Preparing spawn area: 0%
-[09:26:55] [Server thread/INFO]: Preparing spawn area: 1%
-[09:26:55] [Server thread/INFO]: Time elapsed: 515 ms
-[09:26:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[09:26:55] [Server thread/INFO]: Preparing spawn area: 0%
-[09:26:56] [Server thread/INFO]: Preparing spawn area: 0%
-[09:26:56] [Server thread/INFO]: Time elapsed: 922 ms
-[09:26:56] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[09:26:56] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[09:26:56] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
-[09:26:56] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[09:26:56] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[09:26:56] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[09:26:56] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[09:26:56] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[09:26:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
-[09:26:57] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[09:26:57] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[09:26:57] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
-[09:26:57] [Server thread/INFO]: [Essentials] Using locale en_US
-[09:26:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[09:26:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[09:26:57] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[09:26:57] [Server thread/INFO]: Starting GS4 status listener
-[09:26:57] [Server thread/INFO]: Thread Query Listener started
-[09:26:57] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[09:26:57] [Server thread/INFO]: Running delayed init tasks
-[09:26:57] [Craft Scheduler Thread - 0/INFO]: [Essentials] Fetching version information...
-[09:26:57] [Server thread/INFO]: Done (5.035s)! For help, type "help"
-[09:26:57] [Server thread/INFO]: Timings Reset
-[09:26:58] [Server thread/WARN]: [AngelChest] ***************************************************
-[09:26:58] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
-[09:26:58] [Server thread/WARN]: [AngelChest] *  
-[09:26:58] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
-[09:26:58] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
-[09:26:58] [Server thread/WARN]: [AngelChest] *  
-[09:26:58] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
-[09:26:58] [Server thread/WARN]: [AngelChest] *  
-[09:26:58] [Server thread/WARN]: [AngelChest] * Download (Plus):
-[09:26:58] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
-[09:26:58] [Server thread/WARN]: [AngelChest] *  
-[09:26:58] [Server thread/WARN]: [AngelChest] * Download (Free):
-[09:26:58] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
-[09:26:58] [Server thread/WARN]: [AngelChest] ***************************************************
-[09:27:00] [Server thread/INFO]: [AngelChest] ========================================================
-[09:27:00] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[09:27:00] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[09:27:00] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[09:27:00] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[09:27:00] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[09:27:00] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[09:27:00] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[09:27:00] [Server thread/INFO]: [AngelChest] 
-[09:27:00] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[09:27:00] [Server thread/INFO]: [AngelChest] ========================================================
-[09:28:42] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[09:28:43] [Server thread/INFO]: bruhTM_ joined the game
-[09:28:43] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:55868] logged in with entity id 249 at ([world]-640.033701748366, 72.0, -122.8306084441863)
-[09:31:26] [Server thread/INFO]: bruhTM_ issued server command: /gamemode creative
-[09:31:29] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
-[09:31:35] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
-[09:31:35] [Server thread/INFO]: bruhTM_ left the game
-[09:32:21] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[09:32:21] [Server thread/INFO]: bruhTM_ joined the game
-[09:32:21] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:55898] logged in with entity id 826 at ([world]-638.8857058892783, 72.0, -121.0872568589692)
-[09:34:43] [Server thread/INFO]: bruhTM_ issued server command: /gamemode creative
-[09:34:45] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
-[09:35:57] [Server thread/INFO]: bruhTM_ has made the advancement [A Seedy Place]
-[09:38:03] [User Authenticator #3/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
-[09:38:03] [Server thread/INFO]: HaxorBeing joined the game
-[09:38:03] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:55946] logged in with entity id 1623 at ([world]-651.1874012243886, 74.0, -132.102544228902)
-[09:38:11] [Async Chat Thread - #0/INFO]: <bruhTM_> why no vc bruh
-[09:39:55] [Async Chat Thread - #1/INFO]: <HaxorBeing> lunar is good tho
-[09:40:00] [Async Chat Thread - #1/INFO]: <bruhTM_> not for your potato
-[09:40:14] [Async Chat Thread - #1/INFO]: <HaxorBeing> sleep
-[09:40:28] [Async Chat Thread - #1/INFO]: <HaxorBeing> woops
-[09:40:30] [Async Chat Thread - #1/INFO]: <bruhTM_> it aint even night
-[09:40:54] [Async Chat Thread - #1/INFO]: <HaxorBeing> pro farm
-[09:40:59] [Async Chat Thread - #1/INFO]: <HaxorBeing> sheesh
-[09:41:03] [Async Chat Thread - #1/INFO]: <bruhTM_> pro house
-[09:41:09] [Async Chat Thread - #1/INFO]: <HaxorBeing> cook those food wen
-[09:41:32] [Async Chat Thread - #1/INFO]: <bruhTM_> might go afk all of a sudden btw
-[09:41:38] [Server thread/INFO]: bruhTM_ issued server command: /afk
-[09:41:43] [Async Chat Thread - #1/INFO]: <HaxorBeing> k
-[09:41:44] [Server thread/INFO]: bruhTM_ issued server command: /afk
-[09:41:59] [Async Chat Thread - #1/INFO]: <HaxorBeing> ?
-[09:42:00] [Async Chat Thread - #1/INFO]: <bruhTM_> use ur own stuff
-[09:42:01] [Async Chat Thread - #1/INFO]: <bruhTM_> kys
-[09:42:29] [Async Chat Thread - #1/INFO]: <bruhTM_> get out
-[09:45:19] [Server thread/INFO]: bruhTM_ issued server command: /home
-[09:45:21] [Server thread/INFO]: bruhTM_ issued server command: /homes
-[09:45:23] [Server thread/INFO]: bruhTM_ issued server command: /home home
-[09:45:29] [Async Chat Thread - #2/INFO]: <bruhTM_> slash home is added btw3
-[09:45:45] [Async Chat Thread - #2/INFO]: <HaxorBeing> i think i need op for that
-[09:45:51] [Async Chat Thread - #2/INFO]: <bruhTM_> yeah?
-[09:45:56] [Async Chat Thread - #2/INFO]: <bruhTM_> ill fix it rn
-[09:45:57] [Async Chat Thread - #2/INFO]: <bruhTM_> ?
-[09:46:06] [Async Chat Thread - #2/INFO]: <HaxorBeing> its /set home right?
-[09:46:11] [Async Chat Thread - #2/INFO]: <bruhTM_> no
-[09:46:15] [Async Chat Thread - #2/INFO]: <bruhTM_> ./sethome
-[09:46:24] [Async Chat Thread - #2/INFO]: <HaxorBeing> yea not showing
-[09:46:30] [Server thread/INFO]: HaxorBeing issued server command: /spigotping:ping
-[09:46:32] [Async Chat Thread - #2/INFO]: <bruhTM_> lemme fix wait
-[09:46:34] [Async Chat Thread - #2/INFO]: <bruhTM_> not restarting dw
-[09:46:35] [Server thread/INFO]: HaxorBeing issued server command: /spigotping:pingreload
-[09:49:33] [Async Chat Thread - #3/INFO]: <HaxorBeing> why is grass not showing
-[09:49:44] [Async Chat Thread - #3/INFO]: <bruhTM_> u have it fucking disabled in lunar settings idiot
-[09:49:50] [Async Chat Thread - #3/INFO]: <HaxorBeing> where is it
-[09:49:51] [Async Chat Thread - #3/INFO]: <bruhTM_> performance > show foliage
-[09:52:58] [Async Chat Thread - #4/INFO]: <bruhTM_> afk
-[09:53:02] [Async Chat Thread - #4/INFO]: <bruhTM_> brb after lunch ok
-[09:53:03] [Async Chat Thread - #4/INFO]: <bruhTM_> u play
-[09:53:05] [Async Chat Thread - #4/INFO]: <HaxorBeing> k
-[09:53:05] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
-[09:53:05] [Server thread/INFO]: bruhTM_ left the game
-[09:53:57] [Server thread/INFO]: CONSOLE issued server command: /essentials reload
-[09:53:57] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
-[09:53:57] [Server thread/INFO]: [Essentials] Using locale en_US
-[09:53:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[09:53:57] [Server thread/INFO]: Essentials reloaded 2.19.4.
-[09:54:02] [Server thread/INFO]: [Server] alr now u can use home
-[09:54:14] [Async Chat Thread - #5/INFO]: <HaxorBeing> no
-[09:54:25] [Server thread/INFO]: HaxorBeing issued server command: /sethome
-[09:54:25] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
-[09:54:35] [Async Chat Thread - #5/INFO]: <HaxorBeing> do not have access to that command
-[10:02:14] [Async Chat Thread - #6/INFO]: <HaxorBeing> waffwafwadwadas
-[10:06:49] [Server thread/INFO]: HaxorBeing has made the advancement [We Need to Go Deeper]
-[10:06:55] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
-[10:06:55] [Server thread/INFO]: HaxorBeing left the game
-[10:07:56] [User Authenticator #4/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
-[10:07:56] [Server thread/INFO]: HaxorBeing joined the game
-[10:07:56] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56124] logged in with entity id 4769 at ([world_nether]-66.78018738560165, 25.82581937330046, -11.724356031578429)
-[10:08:00] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
-[10:08:00] [Server thread/INFO]: HaxorBeing left the game
-[10:24:44] [User Authenticator #5/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[10:24:44] [Server thread/INFO]: bruhTM_ joined the game
-[10:24:44] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:56162] logged in with entity id 4787 at ([world]-644.6868402182205, 72.0, -122.61067826941499)
-[10:25:07] [User Authenticator #5/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
-[10:25:07] [Server thread/INFO]: HaxorBeing joined the game
-[10:25:07] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56166] logged in with entity id 5046 at ([world_nether]-66.78018738560165, 25.67558693828217, -11.724356031578429)
-[10:25:11] [Server thread/INFO]: HaxorBeing tried to swim in lava
-[10:25:27] [Async Chat Thread - #7/INFO]: <bruhTM_> ./acretrieve
-[10:25:37] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
-[10:25:41] [Async Chat Thread - #7/INFO]: <HaxorBeing> lol no permission
-[10:25:50] [Async Chat Thread - #7/INFO]: <HaxorBeing> yes'
-[10:25:59] [Async Chat Thread - #7/INFO]: <HaxorBeing> give op
-[10:26:05] [Server thread/INFO]: bruhTM_ issued server command: /op HaxorBeing
-[10:26:05] [Server thread/INFO]: [bruhTM_: Made HaxorBeing a server operator]
-[10:26:11] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
-[10:26:15] [Async Chat Thread - #7/INFO]: <HaxorBeing> yay
-[10:26:19] [Server thread/INFO]: bruhTM_ issued server command: /deop HaxorBeing
-[10:26:19] [Server thread/INFO]: [bruhTM_: Made HaxorBeing no longer a server operator]
-[10:26:21] [Async Chat Thread - #7/INFO]: <HaxorBeing> bruh
-[10:26:57] [Async Chat Thread - #7/INFO]: <HaxorBeing> classic 2012 house
-[10:30:12] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
-[10:30:23] [Async Chat Thread - #8/INFO]: <HaxorBeing> no permission
-[10:30:36] [Server thread/INFO]: bruhTM_ issued server command: /essentials re
-[10:30:44] [Server thread/INFO]: bruhTM_ issued server command: /essentials reload
-[10:30:44] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
-[10:30:44] [Server thread/INFO]: [Essentials] Using locale en_US
-[10:30:44] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[10:30:59] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
-[10:31:01] [Async Chat Thread - #8/INFO]: <HaxorBeing> no permission
-[10:31:11] [Async Chat Thread - #8/INFO]: <HaxorBeing> just give op
-[10:31:12] [Async Chat Thread - #8/INFO]: <HaxorBeing> done ez
-[10:31:23] [Async Chat Thread - #8/INFO]: <HaxorBeing> do can i do with op
-[10:37:19] [Async Chat Thread - #9/INFO]: <HaxorBeing> pussyTM
-[10:37:43] [Async Chat Thread - #9/INFO]: <HaxorBeing> why
-[10:38:07] [Async Chat Thread - #9/INFO]: <HaxorBeing> who is gonna join this smp tho
-[10:38:10] [Async Chat Thread - #9/INFO]: <HaxorBeing> your girlfriend?
-[10:41:23] [Server thread/INFO]: bruhTM_ issued server command: /resta
-[10:41:27] [Async Chat Thread - #10/INFO]: <HaxorBeing> LOL
-[10:41:29] [Server thread/INFO]: bruhTM_ issued server command: /restart
-[10:41:29] [Server thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
-[10:41:29] [Server thread/INFO]: bruhTM_ lost connection: Server is restarting
-[10:41:29] [Server thread/INFO]: bruhTM_ left the game
-[10:41:29] [Server thread/INFO]: HaxorBeing lost connection: Server is restarting
-[10:41:29] [Server thread/INFO]: HaxorBeing left the game
-[10:41:29] [Server thread/INFO]: Stopping server
-[10:41:29] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
-[10:41:29] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
-[10:41:29] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
-[10:41:29] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
-[10:41:29] [Server thread/INFO]: Saving players
-[10:41:29] [Server thread/INFO]: Saving worlds
-[10:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[10:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:41:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[10:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:41:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:41:29] [Server thread/INFO]: Flushing Chunk IO
-[10:41:29] [Server thread/INFO]: Closing Thread Pool
-[10:41:29] [Server thread/INFO]: Closing Server
+[10:43:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:43:59] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:44:00] [Worker-Main-2/INFO]: Loaded 7 recipes
+[10:44:01] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[10:44:01] [Server thread/INFO]: Loading properties
+[10:44:01] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[10:44:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:44:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:44:01] [Server thread/INFO]: Debug logging is disabled
+[10:44:01] [Server thread/INFO]: Default game type: SURVIVAL
+[10:44:01] [Server thread/INFO]: Generating keypair
+[10:44:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:44:01] [Server thread/INFO]: Using epoll channel type
+[10:44:01] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[10:44:01] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.30
+[10:44:03] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
+[10:44:03] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[10:44:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:44:03] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.30
+[10:44:03] [Server thread/INFO]:         __    
+[10:44:03] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.30
+[10:44:03] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[10:44:03] [Server thread/INFO]: 
+[10:44:03] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[10:44:03] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[10:44:04] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[10:44:04] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[10:44:04] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 867ms)
+[10:44:04] [Server thread/INFO]: Preparing level "world"
+[10:44:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:44:05] [Server thread/INFO]: Preparing spawn area: 0%
+[10:44:05] [Server thread/INFO]: Preparing spawn area: 0%
+[10:44:05] [Server thread/INFO]: Time elapsed: 734 ms
+[10:44:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:44:05] [Server thread/INFO]: Preparing spawn area: 0%
+[10:44:05] [Server thread/INFO]: Preparing spawn area: 5%
+[10:44:06] [Server thread/INFO]: Time elapsed: 672 ms
+[10:44:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:44:06] [Server thread/INFO]: Preparing spawn area: 0%
+[10:44:06] [Worker-Main-2/INFO]: Preparing spawn area: 100%
+[10:44:06] [Server thread/INFO]: Time elapsed: 508 ms
+[10:44:06] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[10:44:06] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[10:44:06] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
+[10:44:06] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[10:44:06] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[10:44:06] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[10:44:06] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[10:44:06] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[10:44:06] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[10:44:06] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:44:06] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:44:07] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[10:44:07] [Server thread/INFO]: [Essentials] Using locale en_US
+[10:44:07] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:44:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:44:07] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[10:44:07] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[10:44:07] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[10:44:07] [Server thread/INFO]: Starting GS4 status listener
+[10:44:07] [Server thread/INFO]: Thread Query Listener started
+[10:44:07] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[10:44:07] [Server thread/INFO]: Running delayed init tasks
+[10:44:07] [Craft Scheduler Thread - 2/INFO]: [Essentials] Fetching version information...
+[10:44:07] [Server thread/INFO]: Done (6.356s)! For help, type "help"
+[10:44:07] [Server thread/INFO]: Timings Reset
+[10:44:07] [Server thread/WARN]: [AngelChest] ***************************************************
+[10:44:07] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
+[10:44:07] [Server thread/WARN]: [AngelChest] *  
+[10:44:07] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
+[10:44:07] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
+[10:44:07] [Server thread/WARN]: [AngelChest] *  
+[10:44:07] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
+[10:44:07] [Server thread/WARN]: [AngelChest] *  
+[10:44:07] [Server thread/WARN]: [AngelChest] * Download (Plus):
+[10:44:07] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
+[10:44:07] [Server thread/WARN]: [AngelChest] *  
+[10:44:07] [Server thread/WARN]: [AngelChest] * Download (Free):
+[10:44:07] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
+[10:44:07] [Server thread/WARN]: [AngelChest] ***************************************************
+[10:44:10] [Server thread/INFO]: [AngelChest] ========================================================
+[10:44:10] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[10:44:10] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[10:44:10] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[10:44:10] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[10:44:10] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[10:44:10] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[10:44:10] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[10:44:10] [Server thread/INFO]: [AngelChest] 
+[10:44:10] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[10:44:10] [Server thread/INFO]: [AngelChest] ========================================================
+[10:45:00] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:45:01] [Server thread/INFO]: bruhTM_ joined the game
+[10:45:01] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:56442] logged in with entity id 236 at ([world]-639.3475000325717, 72.0, -117.54505260196811)
+[10:45:08] [User Authenticator #1/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:45:08] [Server thread/INFO]: HaxorBeing joined the game
+[10:45:08] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56446] logged in with entity id 548 at ([world]-635.2518944364442, 73.0, -188.10410078483943)
+[10:45:18] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[10:45:18] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[10:45:18] [luckperms-command-executor/INFO]: https://luckperms.net/editor/19SJ8InVXw
+[10:45:28] [Server thread/INFO]: [Server] ur mom
+[10:45:32] [luckperms-worker-15/INFO]: [LP] An editor window has connected, but it is not yet trusted.
+[10:45:33] [luckperms-worker-15/INFO]: [LP] (session id = 870f-b548, browser = Opera on Windows)
+[10:45:33] [luckperms-worker-15/INFO]: [LP] If it was you, run /lp trusteditor 870f-b548 to trust the session!
+[10:45:33] [Async Chat Thread - #0/INFO]: <HaxorBeing> ur dada
