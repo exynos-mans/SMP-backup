@@ -25,15 +25,15 @@ commands:
   - tellraw
 messages:
   whitelist: woops! You arent whitelisted in our SMP :(
-  unknown-command: bruh you typed in something wrong
+  unknown-command: bruh you typed in something wrong ;-; | use /help
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  restart: brrr! Server is rebooting at the moment, join back later :D
 settings:
   timeout-time: 60
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: /workspace/workspace-images/smp/launch.sh
   bungeecord: false
   netty-threads: 4
   sample-count: 12

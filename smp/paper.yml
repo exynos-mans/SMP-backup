@@ -175,7 +175,7 @@ world-settings:
       disable-player-crits: false
       disable-sprint-interruption-on-attack: false
       disable-unloaded-chunk-enderpearl-exploit: true
-      shield-blocking-delay: 5
+      shield-blocking-delay: 0
       scan-for-legacy-ender-dragon: true
       disable-relative-projectile-velocity: false
       disable-pillager-patrols: false
