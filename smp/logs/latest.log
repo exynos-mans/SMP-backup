@@ -126,3 +126,23 @@
 [09:46:32] [Async Chat Thread - #2/INFO]: <bruhTM_> lemme fix wait
 [09:46:34] [Async Chat Thread - #2/INFO]: <bruhTM_> not restarting dw
 [09:46:35] [Server thread/INFO]: HaxorBeing issued server command: /spigotping:pingreload
+[09:49:33] [Async Chat Thread - #3/INFO]: <HaxorBeing> why is grass not showing
+[09:49:44] [Async Chat Thread - #3/INFO]: <bruhTM_> u have it fucking disabled in lunar settings idiot
+[09:49:50] [Async Chat Thread - #3/INFO]: <HaxorBeing> where is it
+[09:49:51] [Async Chat Thread - #3/INFO]: <bruhTM_> performance > show foliage
+[09:52:58] [Async Chat Thread - #4/INFO]: <bruhTM_> afk
+[09:53:02] [Async Chat Thread - #4/INFO]: <bruhTM_> brb after lunch ok
+[09:53:03] [Async Chat Thread - #4/INFO]: <bruhTM_> u play
+[09:53:05] [Async Chat Thread - #4/INFO]: <HaxorBeing> k
+[09:53:05] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[09:53:05] [Server thread/INFO]: bruhTM_ left the game
+[09:53:57] [Server thread/INFO]: CONSOLE issued server command: /essentials reload
+[09:53:57] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[09:53:57] [Server thread/INFO]: [Essentials] Using locale en_US
+[09:53:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:53:57] [Server thread/INFO]: Essentials reloaded 2.19.4.
+[09:54:02] [Server thread/INFO]: [Server] alr now u can use home
+[09:54:14] [Async Chat Thread - #5/INFO]: <HaxorBeing> no
+[09:54:25] [Server thread/INFO]: HaxorBeing issued server command: /sethome
+[09:54:25] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
+[09:54:35] [Async Chat Thread - #5/INFO]: <HaxorBeing> do not have access to that command
