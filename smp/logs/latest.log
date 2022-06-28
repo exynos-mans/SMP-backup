@@ -103,3 +103,26 @@
 [10:45:33] [luckperms-worker-15/INFO]: [LP] (session id = 870f-b548, browser = Opera on Windows)
 [10:45:33] [luckperms-worker-15/INFO]: [LP] If it was you, run /lp trusteditor 870f-b548 to trust the session!
 [10:45:33] [Async Chat Thread - #0/INFO]: <HaxorBeing> ur dada
+[10:45:43] [Async Chat Thread - #0/INFO]: <HaxorBeing> frick my dad here
+[10:45:44] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[10:45:44] [Server thread/INFO]: HaxorBeing left the game
+[10:45:47] [User Authenticator #1/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:45:48] [Server thread/INFO]: HaxorBeing joined the game
+[10:45:48] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56466] logged in with entity id 673 at ([world]-650.8160226220484, 72.0, -166.67152642536357)
+[10:45:54] [Async Chat Thread - #0/INFO]: <HaxorBeing> ok nice
+[10:46:00] [luckperms-command-executor/INFO]: [LP] The editor session has been marked as trusted.
+[10:46:00] [luckperms-command-executor/INFO]: [LP] In the future, connections from the same browser will be trusted automatically.
+[10:46:00] [luckperms-command-executor/INFO]: [LP] The plugin will now attempt to establish a connection with the editor...
+[10:46:00] [luckperms-worker-13/INFO]: [LP] Editor window connected successfully.
+[10:51:18] [luckperms-worker-14/INFO]: [LP] Changes have been received from the connected web editor session.
+[10:51:19] [luckperms-worker-14/INFO]: [LP] Web editor data was applied to group default successfully.
+[10:51:19] [luckperms-worker-14/INFO]: [LP] (5 additions and 0 deletions)
+[10:51:19] [luckperms-worker-14/INFO]: +  angelchest.unlock (true)
+[10:51:19] [luckperms-worker-14/INFO]: +  angelchest.protect (true)
+[10:51:19] [luckperms-worker-14/INFO]: +  angelchest.use (true)
+[10:51:19] [luckperms-worker-14/INFO]: +  angelchest.preview (true)
+[10:51:19] [luckperms-worker-14/INFO]: +  angelchest.fetch (true)
+[10:52:14] [luckperms-worker-14/INFO]: [LP] Changes have been received from the connected web editor session.
+[10:52:14] [luckperms-worker-14/INFO]: [LP] Web editor data was applied to user bruhtm_ successfully.
+[10:52:14] [luckperms-worker-14/INFO]: [LP] (1 addition and 0 deletions)
+[10:52:14] [luckperms-worker-14/INFO]: +  * (true)
