@@ -204,3 +204,13 @@
 [11:24:54] [luckperms-worker-1/INFO]: [LP] Web editor data was applied to group default successfully.
 [11:24:54] [luckperms-worker-1/INFO]: [LP] (1 addition and 0 deletions)
 [11:24:54] [luckperms-worker-1/INFO]: +  essentials.sethome.multiple.* (true)
+[11:32:19] [Server thread/INFO]: bruhTM_ issued server command: /compass home
+[11:33:56] [Async Chat Thread - #1/INFO]: <bruhTM_> sleep
+[11:33:56] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[11:33:56] [Server thread/INFO]: HaxorBeing left the game
+[11:33:57] [Server thread/INFO]: bruhTM_ issued server command: /leave
+[11:34:00] [User Authenticator #4/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[11:34:00] [Server thread/INFO]: HaxorBeing joined the game
+[11:34:00] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56888] logged in with entity id 10038 at ([world]455.33606357819343, 73.0, -677.1862824827675)
+[11:34:59] [Server thread/INFO]: HaxorBeing issued server command: /tpa bruhTM_
+[11:35:01] [Server thread/INFO]: bruhTM_ issued server command: /tpaccept
