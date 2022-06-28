@@ -214,3 +214,20 @@
 [11:34:00] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56888] logged in with entity id 10038 at ([world]455.33606357819343, 73.0, -677.1862824827675)
 [11:34:59] [Server thread/INFO]: HaxorBeing issued server command: /tpa bruhTM_
 [11:35:01] [Server thread/INFO]: bruhTM_ issued server command: /tpaccept
+[11:37:37] [Server thread/INFO]: HaxorBeing fell from a high place
+[11:37:42] [Server thread/INFO]: HaxorBeing issued server command: /BACK
+[11:37:47] [Server thread/INFO]: HaxorBeing issued server command: /angelchest
+[11:37:59] [Server thread/INFO]: bruhTM_ issued server command: /ac help
+[11:38:00] [Server thread/INFO]: HaxorBeing issued server command: /tpa bruhTM_
+[11:38:02] [Server thread/INFO]: bruhTM_ issued server command: /ac
+[11:38:06] [Server thread/INFO]: HaxorBeing issued server command: /ac
+[11:38:09] [Server thread/INFO]: HaxorBeing issued server command: /acfetch 1
+[11:38:18] [Server thread/INFO]: HaxorBeing issued server command: /tpa bru
+[11:38:25] [Server thread/INFO]: bruhTM_ issued server command: /tphere HaxorBeing
+[11:40:41] [Server thread/INFO]: bruhTM_ issued server command: /tp bruhTM_ HaxorBeing
+[11:40:54] [Server thread/INFO]: bruhTM_ issued server command: /kick HaxorBeing bros pc died
+[11:40:54] [Server thread/INFO]: HaxorBeing lost connection: bros pc died
+[11:40:54] [Server thread/INFO]: HaxorBeing left the game
+[11:40:54] [Server thread/INFO]: Player bruhTM_ kicked HaxorBeing for bros pc died.
+[11:40:58] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:41:40] [Server thread/INFO]: [Server] yeehaw
