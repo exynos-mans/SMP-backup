@@ -1152,11 +1152,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2022-06-28 11:15:31 +0000",
       "minecraft:forest": "2022-06-21 10:36:08 +0000",
       "minecraft:mountains": "2022-06-21 10:53:16 +0000",
       "minecraft:taiga": "2022-06-22 09:16:33 +0000",
       "minecraft:snowy_tundra": "2022-06-21 10:38:33 +0000",
       "minecraft:taiga_hills": "2022-06-28 10:30:37 +0000",
+      "minecraft:river": "2022-06-28 11:10:37 +0000",
       "minecraft:wooded_mountains": "2022-06-22 09:12:00 +0000",
       "minecraft:wooded_hills": "2022-06-22 09:01:20 +0000",
       "minecraft:plains": "2022-06-22 09:37:59 +0000"
