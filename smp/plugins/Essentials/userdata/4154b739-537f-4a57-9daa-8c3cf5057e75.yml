@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1656409083763
+  logout: 1656410880377
+  login: 1656410876221
 money: '0'
 last-account-name: HaxorBeing
+logoutlocation:
+  world: f2880bd8-9a9f-4d53-8cc8-8441b4b4ed67
+  world-name: world_nether
+  x: -66.78018738560165
+  y: 25.715586935897985
+  z: -11.724356031578429
+  yaw: -98.64749145507812
+  pitch: 18.292861938476562
