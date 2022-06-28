@@ -159,3 +159,48 @@
 [11:18:34] [Server thread/INFO]: HaxorBeing issued server command: /back
 [11:18:36] [Server thread/INFO]: HaxorBeing issued server command: /back
 [11:19:46] [Server thread/INFO]: bruhTM_ has made the advancement [Ice Bucket Challenge]
+[11:22:20] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[11:22:20] [Server thread/INFO]: HaxorBeing left the game
+[11:22:27] [User Authenticator #3/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[11:22:27] [Server thread/INFO]: HaxorBeing joined the game
+[11:22:27] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56790] logged in with entity id 5262 at ([world]193.02224959092132, 71.5625, 27.575367402412905)
+[11:23:59] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_1
+[11:24:08] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_1
+[11:24:08] [Server thread/INFO]: HaxorBeing issued server command: /sethome village1
+[11:24:21] [Server thread/INFO]: bruhTM_ issued server command: /op HaxorBeing
+[11:24:21] [Server thread/INFO]: [bruhTM_: Made HaxorBeing a server operator]
+[11:24:22] [Server thread/INFO]: HaxorBeing issued server command: /sethome village1
+[11:24:24] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_1
+[11:24:28] [Server thread/INFO]: bruhTM_ issued server command: /deop HaxorBeing
+[11:24:28] [Server thread/INFO]: [bruhTM_: Made HaxorBeing no longer a server operator]
+[11:24:34] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.30.
+[11:24:34] [luckperms-command-executor/INFO]: > /lp user <user>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp group <group>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp track <track>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp log
+[11:24:34] [luckperms-command-executor/INFO]: > /lp sync
+[11:24:34] [luckperms-command-executor/INFO]: > /lp info
+[11:24:34] [luckperms-command-executor/INFO]: > /lp editor [type]
+[11:24:34] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[11:24:34] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
+[11:24:34] [luckperms-command-executor/INFO]: > /lp search <permission>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp networksync
+[11:24:34] [luckperms-command-executor/INFO]: > /lp import <file>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp export <file>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp reloadconfig
+[11:24:34] [luckperms-command-executor/INFO]: > /lp bulkupdate
+[11:24:34] [luckperms-command-executor/INFO]: > /lp translations
+[11:24:34] [luckperms-command-executor/INFO]: > /lp creategroup <group>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp listgroups
+[11:24:34] [luckperms-command-executor/INFO]: > /lp createtrack <track>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
+[11:24:34] [luckperms-command-executor/INFO]: > /lp listtracks
+[11:24:36] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[11:24:36] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[11:24:36] [luckperms-command-executor/INFO]: https://luckperms.net/editor/CuIIBsN1s3
+[11:24:42] [luckperms-worker-1/INFO]: [LP] Editor window connected successfully.
+[11:24:54] [luckperms-worker-1/INFO]: [LP] Changes have been received from the connected web editor session.
+[11:24:54] [luckperms-worker-1/INFO]: [LP] Web editor data was applied to group default successfully.
+[11:24:54] [luckperms-worker-1/INFO]: [LP] (1 addition and 0 deletions)
+[11:24:54] [luckperms-worker-1/INFO]: +  essentials.sethome.multiple.* (true)

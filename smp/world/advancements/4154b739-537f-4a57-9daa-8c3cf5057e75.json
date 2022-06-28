@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2022-06-28 11:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-06-21 10:56:17 +0000"
@@ -624,6 +630,7 @@
       "minecraft:skeleton": "2022-06-21 10:59:00 +0000",
       "minecraft:spider": "2022-06-22 09:15:49 +0000",
       "minecraft:stray": "2022-06-21 11:00:58 +0000",
+      "minecraft:enderman": "2022-06-28 11:22:04 +0000",
       "minecraft:zombie": "2022-06-21 10:55:15 +0000"
     },
     "done": false
@@ -730,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-06-28 11:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-21 10:45:24 +0000"
@@ -787,6 +800,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-06-28 10:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-06-28 11:25:57 +0000"
     },
     "done": true
   },
@@ -1158,9 +1177,12 @@
       "minecraft:taiga": "2022-06-22 09:16:33 +0000",
       "minecraft:snowy_tundra": "2022-06-21 10:38:33 +0000",
       "minecraft:taiga_hills": "2022-06-28 10:30:37 +0000",
+      "minecraft:frozen_river": "2022-06-28 11:22:46 +0000",
       "minecraft:river": "2022-06-28 11:10:37 +0000",
+      "minecraft:snowy_taiga": "2022-06-28 11:25:55 +0000",
       "minecraft:wooded_mountains": "2022-06-22 09:12:00 +0000",
       "minecraft:wooded_hills": "2022-06-22 09:01:20 +0000",
+      "minecraft:snowy_taiga_hills": "2022-06-28 11:26:14 +0000",
       "minecraft:plains": "2022-06-22 09:37:59 +0000"
     },
     "done": false
@@ -1210,6 +1232,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2022-06-21 10:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-06-28 11:19:47 +0000"
     },
     "done": true
   },

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1656413618419
-  login: 1656413668226
+  logout: 1656415340299
+  login: 1656415347844
 money: '0'
 last-account-name: HaxorBeing
 logoutlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
-  x: -643.2029931838164
-  y: 72.0
-  z: -188.23762316217892
-  yaw: 14.693435668945312
-  pitch: 26.881322860717773
+  x: 193.02224959092132
+  y: 71.5625
+  z: 27.575367402412905
+  yaw: -269.00518798828125
+  pitch: 14.309324264526367
 lastlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
@@ -45,3 +45,11 @@ homes:
     z: -197.69999998807907
     yaw: -359.84814453125
     pitch: 6.427839279174805
+  village1:
+    world: 6961891d-b385-480c-a60c-6fc41e1e866d
+    world-name: world
+    x: 314.50724153110247
+    y: 64.0
+    z: 158.8205468875843
+    yaw: -48.3275146484375
+    pitch: 17.814924240112305
