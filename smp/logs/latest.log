@@ -1,259 +1,150 @@
-[10:54:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:54:03] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[10:54:03] [Worker-Main-2/INFO]: Loaded 7 recipes
-[10:54:04] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[10:54:04] [Server thread/INFO]: Loading properties
-[10:54:04] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[10:54:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[10:54:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[10:54:05] [Server thread/INFO]: Debug logging is disabled
-[10:54:05] [Server thread/INFO]: Default game type: SURVIVAL
-[10:54:05] [Server thread/INFO]: Generating keypair
-[10:54:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:54:05] [Server thread/INFO]: Using epoll channel type
-[10:54:05] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
-[10:54:05] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.30
-[10:54:05] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
-[10:54:05] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
-[10:54:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[10:54:05] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.30
-[10:54:06] [Server thread/INFO]:         __    
-[10:54:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.30
-[10:54:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[10:54:06] [Server thread/INFO]: 
-[10:54:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[10:54:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[10:54:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[10:54:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[10:54:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 801ms)
-[10:54:06] [Server thread/INFO]: Preparing level "world"
-[10:54:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:54:07] [Server thread/INFO]: Preparing spawn area: 0%
-[10:54:07] [Server thread/INFO]: Preparing spawn area: 0%
-[10:54:07] [Server thread/INFO]: Time elapsed: 636 ms
-[10:54:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[10:54:07] [Server thread/INFO]: Preparing spawn area: 0%
-[10:54:08] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[10:54:08] [Server thread/INFO]: Time elapsed: 655 ms
-[10:54:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[10:54:08] [Server thread/INFO]: Preparing spawn area: 0%
-[10:54:08] [Server thread/INFO]: Time elapsed: 434 ms
-[10:54:08] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[10:54:08] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[10:54:08] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
-[10:54:08] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[10:54:08] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[10:54:08] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[10:54:08] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[10:54:08] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[10:54:08] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
-[10:54:09] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[10:54:09] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[10:54:09] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
-[10:54:09] [Server thread/INFO]: [Essentials] Using locale en_US
-[10:54:09] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[10:54:09] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[10:54:09] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[10:54:09] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[10:54:09] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[10:54:09] [Server thread/INFO]: Starting GS4 status listener
-[10:54:09] [Server thread/INFO]: Thread Query Listener started
-[10:54:09] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[10:54:09] [Server thread/INFO]: Running delayed init tasks
-[10:54:09] [Craft Scheduler Thread - 3/INFO]: [Essentials] Fetching version information...
-[10:54:09] [Server thread/INFO]: Done (4.638s)! For help, type "help"
-[10:54:09] [Server thread/INFO]: Timings Reset
-[10:54:09] [Server thread/WARN]: [AngelChest] ***************************************************
-[10:54:09] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
-[10:54:09] [Server thread/WARN]: [AngelChest] *  
-[10:54:09] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
-[10:54:09] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
-[10:54:09] [Server thread/WARN]: [AngelChest] *  
-[10:54:09] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
-[10:54:09] [Server thread/WARN]: [AngelChest] *  
-[10:54:09] [Server thread/WARN]: [AngelChest] * Download (Plus):
-[10:54:09] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
-[10:54:09] [Server thread/WARN]: [AngelChest] *  
-[10:54:09] [Server thread/WARN]: [AngelChest] * Download (Free):
-[10:54:09] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
-[10:54:09] [Server thread/WARN]: [AngelChest] ***************************************************
-[10:54:12] [Server thread/INFO]: [AngelChest] ========================================================
-[10:54:12] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[10:54:12] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[10:54:12] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[10:54:12] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[10:54:12] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[10:54:12] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[10:54:12] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[10:54:12] [Server thread/INFO]: [AngelChest] 
-[10:54:12] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[10:54:12] [Server thread/INFO]: [AngelChest] ========================================================
-[10:54:23] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[10:54:24] [Server thread/INFO]: bruhTM_ joined the game
-[10:54:24] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:56558] logged in with entity id 238 at ([world]-644.5254359062227, 72.0, -123.11482469981922)
-[10:54:28] [User Authenticator #1/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
-[10:54:28] [Server thread/INFO]: HaxorBeing joined the game
-[10:54:28] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56560] logged in with entity id 484 at ([world]-643.2029931838164, 72.0, -188.23762316217892)
-[10:54:42] [Async Chat Thread - #0/INFO]: <HaxorBeing> yes working
-[10:54:50] [Server thread/INFO]: HaxorBeing issued server command: /acretrieve
-[10:54:52] [Async Chat Thread - #0/INFO]: <HaxorBeing> working
-[10:55:00] [Async Chat Thread - #0/INFO]: <HaxorBeing> don't have any angelchests
-[10:56:07] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
-[10:56:07] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
-[10:56:07] [luckperms-command-executor/INFO]: https://luckperms.net/editor/AXiGteDCVi
-[10:56:19] [luckperms-worker-11/INFO]: [LP] Editor window connected successfully.
-[10:58:28] [luckperms-worker-11/INFO]: [LP] Changes have been received from the connected web editor session.
-[10:58:28] [luckperms-worker-11/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
-[10:59:49] [Server thread/INFO]: bruhTM_ issued server command: /tpa
-[11:00:41] [luckperms-worker-11/INFO]: [LP] Changes have been received from the connected web editor session.
-[11:00:41] [luckperms-worker-11/INFO]: [LP] Web editor data was applied to group default successfully.
-[11:00:41] [luckperms-worker-11/INFO]: [LP] (19 additions and 0 deletions)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpaccept (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.sethome.bed (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.me (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.msgtoggle (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.home.compass (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.compass (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.sethome (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpacancel (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.home (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpall (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpahere (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpa (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpaall (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.mute (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.delhome (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.msg (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.ignore (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpoffline (true)
-[11:00:41] [luckperms-worker-11/INFO]: +  essentials.info (true)
-[11:01:10] [Server thread/INFO]: HaxorBeing issued server command: /tpask bru
-[11:01:15] [Server thread/INFO]: bruhTM_ issued server command: /tpaccept
-[11:02:47] [Server thread/INFO]: HaxorBeing issued server command: /sethome home
-[11:02:54] [Server thread/INFO]: HaxorBeing issued server command: /homes home
-[11:02:56] [Server thread/INFO]: bruhTM_ issued server command: /anvil
-[11:07:31] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
-[11:07:31] [Server thread/INFO]: bruhTM_ left the game
-[11:08:47] [Server thread/INFO]: [Server] ur mom
-[11:08:55] [Server thread/INFO]: [Server] ur mom69
-[11:09:01] [Server thread/INFO]: [Server] 69420 w your mom
-[11:09:02] [Server thread/INFO]: [Server] nice
-[11:09:54] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[11:09:54] [Server thread/INFO]: bruhTM_ joined the game
-[11:09:54] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:56678] logged in with entity id 2113 at ([world]-651.2914658666031, 72.0, -117.2800642653231)
-[11:16:43] [Server thread/INFO]: HaxorBeing issued server command: /homes home
-[11:17:08] [Server thread/INFO]: HaxorBeing issued server command: /back
-[11:17:08] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
-[11:17:18] [Server thread/INFO]: bruhTM_ issued server command: /tp HaxorBeing bruhTM_
-[11:17:54] [Server thread/INFO]: HaxorBeing issued server command: /back
-[11:17:54] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
-[11:18:03] [Server thread/INFO]: [Server] yo mom
-[11:18:06] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
-[11:18:06] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
-[11:18:06] [luckperms-command-executor/INFO]: https://luckperms.net/editor/kgjRSHKhMf
-[11:18:13] [luckperms-worker-15/INFO]: [LP] Editor window connected successfully.
-[11:18:25] [luckperms-worker-15/INFO]: [LP] Changes have been received from the connected web editor session.
-[11:18:25] [luckperms-worker-15/INFO]: [LP] Web editor data was applied to group default successfully.
-[11:18:25] [luckperms-worker-15/INFO]: [LP] (1 addition and 0 deletions)
-[11:18:25] [luckperms-worker-15/INFO]: +  essentials.back (true)
-[11:18:34] [Server thread/INFO]: HaxorBeing issued server command: /back
-[11:18:36] [Server thread/INFO]: HaxorBeing issued server command: /back
-[11:19:46] [Server thread/INFO]: bruhTM_ has made the advancement [Ice Bucket Challenge]
-[11:22:20] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
-[11:22:20] [Server thread/INFO]: HaxorBeing left the game
-[11:22:27] [User Authenticator #3/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
-[11:22:27] [Server thread/INFO]: HaxorBeing joined the game
-[11:22:27] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56790] logged in with entity id 5262 at ([world]193.02224959092132, 71.5625, 27.575367402412905)
-[11:23:59] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_1
-[11:24:08] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_1
-[11:24:08] [Server thread/INFO]: HaxorBeing issued server command: /sethome village1
-[11:24:21] [Server thread/INFO]: bruhTM_ issued server command: /op HaxorBeing
-[11:24:21] [Server thread/INFO]: [bruhTM_: Made HaxorBeing a server operator]
-[11:24:22] [Server thread/INFO]: HaxorBeing issued server command: /sethome village1
-[11:24:24] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_1
-[11:24:28] [Server thread/INFO]: bruhTM_ issued server command: /deop HaxorBeing
-[11:24:28] [Server thread/INFO]: [bruhTM_: Made HaxorBeing no longer a server operator]
-[11:24:34] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.30.
-[11:24:34] [luckperms-command-executor/INFO]: > /lp user <user>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp group <group>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp track <track>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp log
-[11:24:34] [luckperms-command-executor/INFO]: > /lp sync
-[11:24:34] [luckperms-command-executor/INFO]: > /lp info
-[11:24:34] [luckperms-command-executor/INFO]: > /lp editor [type]
-[11:24:34] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
-[11:24:34] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
-[11:24:34] [luckperms-command-executor/INFO]: > /lp search <permission>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp networksync
-[11:24:34] [luckperms-command-executor/INFO]: > /lp import <file>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp export <file>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp reloadconfig
-[11:24:34] [luckperms-command-executor/INFO]: > /lp bulkupdate
-[11:24:34] [luckperms-command-executor/INFO]: > /lp translations
-[11:24:34] [luckperms-command-executor/INFO]: > /lp creategroup <group>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp listgroups
-[11:24:34] [luckperms-command-executor/INFO]: > /lp createtrack <track>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
-[11:24:34] [luckperms-command-executor/INFO]: > /lp listtracks
-[11:24:36] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
-[11:24:36] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
-[11:24:36] [luckperms-command-executor/INFO]: https://luckperms.net/editor/CuIIBsN1s3
-[11:24:42] [luckperms-worker-1/INFO]: [LP] Editor window connected successfully.
-[11:24:54] [luckperms-worker-1/INFO]: [LP] Changes have been received from the connected web editor session.
-[11:24:54] [luckperms-worker-1/INFO]: [LP] Web editor data was applied to group default successfully.
-[11:24:54] [luckperms-worker-1/INFO]: [LP] (1 addition and 0 deletions)
-[11:24:54] [luckperms-worker-1/INFO]: +  essentials.sethome.multiple.* (true)
-[11:32:19] [Server thread/INFO]: bruhTM_ issued server command: /compass home
-[11:33:56] [Async Chat Thread - #1/INFO]: <bruhTM_> sleep
-[11:33:56] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
-[11:33:56] [Server thread/INFO]: HaxorBeing left the game
-[11:33:57] [Server thread/INFO]: bruhTM_ issued server command: /leave
-[11:34:00] [User Authenticator #4/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
-[11:34:00] [Server thread/INFO]: HaxorBeing joined the game
-[11:34:00] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:56888] logged in with entity id 10038 at ([world]455.33606357819343, 73.0, -677.1862824827675)
-[11:34:59] [Server thread/INFO]: HaxorBeing issued server command: /tpa bruhTM_
-[11:35:01] [Server thread/INFO]: bruhTM_ issued server command: /tpaccept
-[11:37:37] [Server thread/INFO]: HaxorBeing fell from a high place
-[11:37:42] [Server thread/INFO]: HaxorBeing issued server command: /BACK
-[11:37:47] [Server thread/INFO]: HaxorBeing issued server command: /angelchest
-[11:37:59] [Server thread/INFO]: bruhTM_ issued server command: /ac help
-[11:38:00] [Server thread/INFO]: HaxorBeing issued server command: /tpa bruhTM_
-[11:38:02] [Server thread/INFO]: bruhTM_ issued server command: /ac
-[11:38:06] [Server thread/INFO]: HaxorBeing issued server command: /ac
-[11:38:09] [Server thread/INFO]: HaxorBeing issued server command: /acfetch 1
-[11:38:18] [Server thread/INFO]: HaxorBeing issued server command: /tpa bru
-[11:38:25] [Server thread/INFO]: bruhTM_ issued server command: /tphere HaxorBeing
-[11:40:41] [Server thread/INFO]: bruhTM_ issued server command: /tp bruhTM_ HaxorBeing
-[11:40:54] [Server thread/INFO]: bruhTM_ issued server command: /kick HaxorBeing bros pc died
-[11:40:54] [Server thread/INFO]: HaxorBeing lost connection: bros pc died
-[11:40:54] [Server thread/INFO]: HaxorBeing left the game
-[11:40:54] [Server thread/INFO]: Player bruhTM_ kicked HaxorBeing for bros pc died.
-[11:40:58] [Server thread/INFO]: bruhTM_ issued server command: /back
-[11:41:40] [Server thread/INFO]: [Server] yeehaw
-[11:42:42] [Server thread/INFO]: Stopping the server
-[11:42:42] [Server thread/INFO]: Stopping server
-[11:42:42] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
-[11:42:42] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
-[11:42:42] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
-[11:42:42] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[11:42:42] [Server thread/INFO]: [LuckPerms] Closing storage...
-[11:42:42] [Server thread/INFO]: [LuckPerms] Goodbye!
-[11:42:42] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
-[11:42:42] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
-[11:42:42] [Server thread/INFO]: Saving players
-[11:42:42] [Server thread/INFO]: bruhTM_ lost connection: Server closed
-[11:42:42] [Server thread/INFO]: bruhTM_ left the game
-[11:42:42] [Server thread/INFO]: Saving worlds
-[11:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:42:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[11:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:42:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[11:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:42:43] [Server thread/INFO]: Flushing Chunk IO
-[11:42:43] [Server thread/INFO]: Closing Thread Pool
-[11:42:43] [Server thread/INFO]: Closing Server
+[11:44:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:44:54] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:44:54] [Worker-Main-2/INFO]: Loaded 7 recipes
+[11:44:55] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[11:44:55] [Server thread/INFO]: Loading properties
+[11:44:55] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[11:44:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:44:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:44:55] [Server thread/INFO]: Debug logging is disabled
+[11:44:55] [Server thread/INFO]: Default game type: SURVIVAL
+[11:44:55] [Server thread/INFO]: Generating keypair
+[11:44:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:44:55] [Server thread/INFO]: Using epoll channel type
+[11:44:56] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[11:44:56] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.30
+[11:44:56] [Server thread/INFO]: [dynmap] Loading dynmap v3.4-beta-4-792
+[11:44:56] [Server thread/INFO]: [dynmap] version=git-Paper-794 (MC: 1.16.5)
+[11:44:56] [Server thread/INFO]: [dynmap] Mod Support API available
+[11:44:56] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
+[11:44:56] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[11:44:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:44:56] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.30
+[11:44:56] [Server thread/INFO]:         __    
+[11:44:56] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.30
+[11:44:56] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[11:44:56] [Server thread/INFO]: 
+[11:44:56] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:44:56] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:44:56] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:44:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:44:57] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 775ms)
+[11:44:57] [Server thread/INFO]: Preparing level "world"
+[11:44:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:44:57] [Server thread/INFO]: Preparing spawn area: 0%
+[11:44:57] [Server thread/INFO]: Preparing spawn area: 0%
+[11:44:58] [Server thread/INFO]: Time elapsed: 792 ms
+[11:44:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:44:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[11:44:58] [Server thread/INFO]: Time elapsed: 584 ms
+[11:44:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:44:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:44:59] [Server thread/INFO]: Time elapsed: 388 ms
+[11:44:59] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[11:44:59] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[11:44:59] [Server thread/INFO]: [dynmap] Enabling dynmap v3.4-beta-4-792
+[11:44:59] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.30 for access control
+[11:44:59] [Server thread/INFO]: [dynmap] Extracted files upgraded
+[11:44:59] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[11:45:02] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[11:45:02] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[11:45:02] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[11:45:02] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[11:45:02] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[11:45:02] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[11:45:02] [Server thread/INFO]: [dynmap] version 3.4-beta-4-792 is enabled - core version 3.4-beta-4-792
+[11:45:02] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[11:45:02] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://twitter.com/Dynmap
+[11:45:02] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[11:45:02] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[11:45:02] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[11:45:02] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[11:45:02] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[11:45:02] [Server thread/INFO]: [dynmap] Enabled
+[11:45:02] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
+[11:45:02] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[11:45:02] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[11:45:02] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[11:45:02] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[11:45:02] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[11:45:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[11:45:02] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[11:45:02] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[11:45:02] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[11:45:02] [Server thread/INFO]: [Essentials] Using locale en_US
+[11:45:02] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[11:45:03] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[11:45:03] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[11:45:03] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[11:45:03] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[11:45:03] [Server thread/INFO]: Starting GS4 status listener
+[11:45:03] [Server thread/INFO]: Thread Query Listener started
+[11:45:03] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[11:45:03] [Server thread/INFO]: Running delayed init tasks
+[11:45:03] [Craft Scheduler Thread - 2/INFO]: [Essentials] Fetching version information...
+[11:45:03] [Server thread/INFO]: Done (7.790s)! For help, type "help"
+[11:45:03] [Server thread/INFO]: Timings Reset
+[11:45:03] [Server thread/WARN]: [AngelChest] ***************************************************
+[11:45:03] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
+[11:45:03] [Server thread/WARN]: [AngelChest] *  
+[11:45:03] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
+[11:45:03] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
+[11:45:03] [Server thread/WARN]: [AngelChest] *  
+[11:45:03] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
+[11:45:03] [Server thread/WARN]: [AngelChest] *  
+[11:45:03] [Server thread/WARN]: [AngelChest] * Download (Plus):
+[11:45:03] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
+[11:45:03] [Server thread/WARN]: [AngelChest] *  
+[11:45:03] [Server thread/WARN]: [AngelChest] * Download (Free):
+[11:45:03] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
+[11:45:03] [Server thread/WARN]: [AngelChest] ***************************************************
+[11:45:06] [Server thread/INFO]: [AngelChest] ========================================================
+[11:45:06] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[11:45:06] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[11:45:06] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[11:45:06] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[11:45:06] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[11:45:06] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[11:45:06] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[11:45:06] [Server thread/INFO]: [AngelChest] 
+[11:45:06] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[11:45:06] [Server thread/INFO]: [AngelChest] ========================================================
+[11:45:47] [Server thread/INFO]: World name is required
+[11:45:59] [Server thread/INFO]: Full render starting on world 'world'...
+[11:45:59] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[11:46:05] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 100 tiles rendered (58.06 msec/tile, 22.05 msec per render)
+[11:46:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 200 tiles rendered (53.98 msec/tile, 17.41 msec per render)
+[11:46:15] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 300 tiles rendered (54.02 msec/tile, 17.88 msec per render)
+[11:46:21] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 400 tiles rendered (54.38 msec/tile, 19.72 msec per render)
+[11:46:27] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 500 tiles rendered (55.97 msec/tile, 22.54 msec per render)
+[11:46:33] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 600 tiles rendered (56.00 msec/tile, 23.11 msec per render)
+[11:46:38] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 700 tiles rendered (55.89 msec/tile, 23.18 msec per render)
+[11:46:44] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 800 tiles rendered (56.10 msec/tile, 23.33 msec per render)
+[11:46:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 900 tiles rendered (56.31 msec/tile, 23.77 msec per render)
+[11:46:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1000 tiles rendered (56.38 msec/tile, 24.01 msec per render)
+[11:47:02] [Server thread/INFO]: [WEB] 10.20.75.14: help
+[11:47:03] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1100 tiles rendered (56.79 msec/tile, 24.35 msec per render)
+[11:47:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1200 tiles rendered (57.23 msec/tile, 24.77 msec per render)
+[11:47:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1300 tiles rendered (57.90 msec/tile, 25.34 msec per render)
+[11:47:24] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1400 tiles rendered (58.72 msec/tile, 25.99 msec per render)
+[11:47:31] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1500 tiles rendered (59.26 msec/tile, 26.35 msec per render)
+[11:47:38] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1600 tiles rendered (59.84 msec/tile, 26.93 msec per render)
+[11:47:45] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1700 tiles rendered (60.21 msec/tile, 27.04 msec per render)
+[11:47:52] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1800 tiles rendered (60.47 msec/tile, 27.20 msec per render)
+[11:47:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1900 tiles rendered (60.63 msec/tile, 27.34 msec per render)
+[11:48:02] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[11:48:02] [Server thread/INFO]: bruhTM_ joined the game
+[11:48:02] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:56964] logged in with entity id 244 at ([world]-869.8903772285591, 74.0, -807.3000000119209)
+[11:48:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2000 tiles rendered (60.74 msec/tile, 27.29 msec per render)
+[11:48:12] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2100 tiles rendered (60.68 msec/tile, 27.28 msec per render)
+[11:48:19] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2200 tiles rendered (60.62 msec/tile, 27.20 msec per render)
+[11:48:25] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2300 tiles rendered (60.68 msec/tile, 27.41 msec per render)
+[11:48:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2400 tiles rendered (61.02 msec/tile, 27.79 msec per render)
+[11:48:39] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2500 tiles rendered (61.26 msec/tile, 28.08 msec per render)
+[11:48:47] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2600 tiles rendered (61.40 msec/tile, 28.07 msec per render)
+[11:48:52] [Server thread/INFO]: [WEB] 10.20.75.14: hello
+[11:48:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' completed - 2660 tiles rendered (61.76 msec/map-tile, 28.31 msec per render)
+[11:49:06] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 100 tiles rendered (125.13 msec/tile, 98.33 msec per render)
+[11:49:18] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 200 tiles rendered (120.57 msec/tile, 93.80 msec per render)
+[11:49:28] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 300 tiles rendered (115.90 msec/tile, 90.14 msec per render)
