@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1656416562345
+  logout: 1656418111520
   login: 1656416882681
 money: '0'
 last-account-name: bruhTM_
 logoutlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
-  x: -869.8903772285591
-  y: 74.0
-  z: -807.3000000119209
-  yaw: 53.394126892089844
-  pitch: 35.661869049072266
+  x: -900.0895534869048
+  y: 76.0
+  z: -308.2309011846877
+  yaw: 139.44384765625
+  pitch: 18.44194221496582
 lastlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
