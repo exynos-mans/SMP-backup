@@ -104,3 +104,40 @@
 [10:56:19] [luckperms-worker-11/INFO]: [LP] Editor window connected successfully.
 [10:58:28] [luckperms-worker-11/INFO]: [LP] Changes have been received from the connected web editor session.
 [10:58:28] [luckperms-worker-11/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[10:59:49] [Server thread/INFO]: bruhTM_ issued server command: /tpa
+[11:00:41] [luckperms-worker-11/INFO]: [LP] Changes have been received from the connected web editor session.
+[11:00:41] [luckperms-worker-11/INFO]: [LP] Web editor data was applied to group default successfully.
+[11:00:41] [luckperms-worker-11/INFO]: [LP] (19 additions and 0 deletions)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpaccept (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.sethome.bed (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.me (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.msgtoggle (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.home.compass (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.compass (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.sethome (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpacancel (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.home (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpall (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpahere (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpa (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpaall (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.mute (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.delhome (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.msg (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.ignore (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.tpoffline (true)
+[11:00:41] [luckperms-worker-11/INFO]: +  essentials.info (true)
+[11:01:10] [Server thread/INFO]: HaxorBeing issued server command: /tpask bru
+[11:01:15] [Server thread/INFO]: bruhTM_ issued server command: /tpaccept
+[11:02:47] [Server thread/INFO]: HaxorBeing issued server command: /sethome home
+[11:02:54] [Server thread/INFO]: HaxorBeing issued server command: /homes home
+[11:02:56] [Server thread/INFO]: bruhTM_ issued server command: /anvil
+[11:07:31] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
+[11:07:31] [Server thread/INFO]: bruhTM_ left the game
+[11:08:47] [Server thread/INFO]: [Server] ur mom
+[11:08:55] [Server thread/INFO]: [Server] ur mom69
+[11:09:01] [Server thread/INFO]: [Server] 69420 w your mom
+[11:09:02] [Server thread/INFO]: [Server] nice
+[11:09:54] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[11:09:54] [Server thread/INFO]: bruhTM_ joined the game
+[11:09:54] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:56678] logged in with entity id 2113 at ([world]-651.2914658666031, 72.0, -117.2800642653231)
