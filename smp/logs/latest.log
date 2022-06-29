@@ -1,135 +1,117 @@
-[12:18:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:18:13] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[12:18:14] [Worker-Main-2/INFO]: Loaded 7 recipes
-[12:18:15] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[12:18:15] [Server thread/INFO]: Loading properties
-[12:18:15] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[12:18:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:18:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:18:15] [Server thread/INFO]: Debug logging is disabled
-[12:18:15] [Server thread/INFO]: Default game type: SURVIVAL
-[12:18:15] [Server thread/INFO]: Generating keypair
-[12:18:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:18:15] [Server thread/INFO]: Using epoll channel type
-[12:18:15] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.30
-[12:18:15] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
-[12:18:15] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
-[12:18:15] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
-[12:18:15] [Server thread/INFO]: [dynmap] Loading dynmap v3.4-beta-4-792
-[12:18:15] [Server thread/INFO]: [dynmap] version=git-Paper-794 (MC: 1.16.5)
-[12:18:16] [Server thread/INFO]: [dynmap] Mod Support API available
-[12:18:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:18:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.30
-[12:18:16] [Server thread/INFO]:         __    
-[12:18:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.30
-[12:18:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[12:18:16] [Server thread/INFO]: 
-[12:18:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[12:18:16] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[12:18:16] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[12:18:16] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[12:18:16] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 782ms)
-[12:18:16] [Server thread/INFO]: Preparing level "world"
-[12:18:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:18:17] [Server thread/INFO]: Preparing spawn area: 0%
-[12:18:17] [Server thread/INFO]: Preparing spawn area: 1%
-[12:18:17] [Server thread/INFO]: Time elapsed: 531 ms
-[12:18:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:18:17] [Server thread/INFO]: Preparing spawn area: 0%
-[12:18:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:18:18] [Server thread/INFO]: Time elapsed: 686 ms
-[12:18:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:18:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:18:18] [Server thread/INFO]: Time elapsed: 361 ms
-[12:18:18] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[12:18:18] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[12:18:18] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
-[12:18:18] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[12:18:18] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[12:18:18] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[12:18:18] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[12:18:18] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[12:18:18] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
-[12:18:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[12:18:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[12:18:19] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
-[12:18:19] [Server thread/INFO]: [Essentials] Using locale en_US
-[12:18:19] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[12:18:19] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[12:18:19] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[12:18:19] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[12:18:19] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[12:18:19] [Server thread/INFO]: [dynmap] Enabling dynmap v3.4-beta-4-792
-[12:18:19] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.30 for access control
-[12:18:19] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[12:18:22] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[12:18:22] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[12:18:22] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[12:18:22] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[12:18:22] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[12:18:22] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[12:18:22] [Server thread/INFO]: [dynmap] version 3.4-beta-4-792 is enabled - core version 3.4-beta-4-792
-[12:18:22] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[12:18:22] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://twitter.com/Dynmap
-[12:18:22] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[12:18:22] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[12:18:22] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[12:18:22] [Server thread/INFO]: [dynmap] Loaded 13 pending tile renders for world 'world'
-[12:18:22] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[12:18:22] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[12:18:22] [Server thread/INFO]: [dynmap] Enabled
-[12:18:22] [Server thread/INFO]: Starting GS4 status listener
-[12:18:22] [Server thread/INFO]: Thread Query Listener started
-[12:18:22] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[12:18:22] [Server thread/INFO]: Running delayed init tasks
-[12:18:22] [Craft Scheduler Thread - 3/INFO]: [Essentials] Fetching version information...
-[12:18:22] [Server thread/INFO]: Done (7.497s)! For help, type "help"
-[12:18:22] [Server thread/INFO]: Timings Reset
-[12:18:22] [Server thread/WARN]: [AngelChest] ***************************************************
-[12:18:22] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
-[12:18:22] [Server thread/WARN]: [AngelChest] *  
-[12:18:22] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
-[12:18:22] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
-[12:18:22] [Server thread/WARN]: [AngelChest] *  
-[12:18:22] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
-[12:18:22] [Server thread/WARN]: [AngelChest] *  
-[12:18:22] [Server thread/WARN]: [AngelChest] * Download (Plus):
-[12:18:22] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
-[12:18:22] [Server thread/WARN]: [AngelChest] *  
-[12:18:22] [Server thread/WARN]: [AngelChest] * Download (Free):
-[12:18:22] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
-[12:18:22] [Server thread/WARN]: [AngelChest] ***************************************************
-[12:18:23] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[12:18:25] [Server thread/INFO]: [AngelChest] ========================================================
-[12:18:25] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[12:18:25] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[12:18:25] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[12:18:25] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[12:18:25] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[12:18:25] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[12:18:25] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[12:18:25] [Server thread/INFO]: [AngelChest] 
-[12:18:25] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[12:18:25] [Server thread/INFO]: [AngelChest] ========================================================
-[12:19:29] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
-[12:19:29] [Server thread/INFO]: bruhTM_ joined the game
-[12:19:30] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:57502] logged in with entity id 241 at ([world]-874.8040042643777, 71.0, -247.16083906887246)
-[12:19:57] [Server thread/INFO]: [WEB] 10.20.190.71: yo waddup
-[12:21:55] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_2
-[12:22:00] [Server thread/INFO]: bruhTM_ issued server command: /home village_1
-[12:22:04] [Server thread/INFO]: bruhTM_ issued server command: /home village_2
-[12:22:08] [Server thread/INFO]: bruhTM_ issued server command: /gc
-[12:22:26] [Server thread/INFO]: bruhTM_ issued server command: /home home
-[12:23:33] [Server thread/INFO]: bruhTM_ issued server command: /help lore
-[12:24:06] [Server thread/INFO]: bruhTM_ issued server command: /ping
-[12:25:32] [Server thread/INFO]: bruhTM_ issued server command: /gamemode creative
-[12:25:34] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
-[12:32:35] [Server thread/INFO]: bruhTM_ issued server command: /home home
-[12:33:02] [Server thread/INFO]: bruhTM_ issued server command: /back
-[12:35:19] [Server thread/INFO]: bruhTM_ issued server command: /gamemode spectator
-[12:37:00] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
-[12:38:47] [Server thread/INFO]: bruhTM_ has made the advancement [Diamonds!]
-[12:42:10] [Server thread/INFO]: bruhTM_ issued server command: /home home
-[12:44:40] [Server thread/INFO]: bruhTM_ issued server command: /home home
-[12:47:17] [Server thread/INFO]: bruhTM_ has made the advancement [Who is Cutting Onions?]
-[12:48:13] [Server thread/INFO]: bruhTM_ has made the advancement [A Terrible Fortress]
+[13:26:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:26:41] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[13:26:41] [Worker-Main-2/INFO]: Loaded 7 recipes
+[13:26:42] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[13:26:42] [Server thread/INFO]: Loading properties
+[13:26:42] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[13:26:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:26:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:26:42] [Server thread/INFO]: Debug logging is disabled
+[13:26:43] [Server thread/INFO]: Default game type: SURVIVAL
+[13:26:43] [Server thread/INFO]: Generating keypair
+[13:26:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:26:43] [Server thread/INFO]: Using epoll channel type
+[13:26:44] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.30
+[13:26:44] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[13:26:44] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
+[13:26:44] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[13:26:44] [Server thread/INFO]: [dynmap] Loading dynmap v3.4-beta-4-792
+[13:26:44] [Server thread/INFO]: [dynmap] version=git-Paper-794 (MC: 1.16.5)
+[13:26:44] [Server thread/INFO]: [dynmap] Mod Support API available
+[13:26:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:26:44] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.30
+[13:26:45] [Server thread/INFO]:         __    
+[13:26:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.30
+[13:26:45] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[13:26:45] [Server thread/INFO]: 
+[13:26:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:26:45] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:26:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:26:45] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:26:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1579ms)
+[13:26:46] [Server thread/INFO]: Preparing level "world"
+[13:26:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:26:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:26:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:26:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:26:48] [Server thread/INFO]: Preparing spawn area: 0%
+[13:26:48] [Server thread/INFO]: Preparing spawn area: 20%
+[13:26:48] [Server thread/INFO]: Time elapsed: 2040 ms
+[13:26:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:26:48] [Server thread/INFO]: Preparing spawn area: 0%
+[13:26:49] [Server thread/INFO]: Preparing spawn area: 53%
+[13:26:49] [Server thread/INFO]: Time elapsed: 820 ms
+[13:26:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:26:49] [Server thread/INFO]: Preparing spawn area: 0%
+[13:26:49] [Server thread/INFO]: Preparing spawn area: 34%
+[13:26:50] [Server thread/INFO]: Time elapsed: 641 ms
+[13:26:50] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[13:26:50] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[13:26:50] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
+[13:26:50] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[13:26:50] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[13:26:50] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[13:26:50] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[13:26:50] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[13:26:50] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[13:26:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[13:26:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[13:26:50] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[13:26:50] [Server thread/INFO]: [Essentials] Using locale en_US
+[13:26:50] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:26:50] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:26:50] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[13:26:50] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[13:26:50] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[13:26:50] [Server thread/INFO]: [dynmap] Enabling dynmap v3.4-beta-4-792
+[13:26:51] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.30 for access control
+[13:26:51] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[13:26:53] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[13:26:54] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[13:26:54] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[13:26:54] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[13:26:54] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[13:26:54] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[13:26:54] [Server thread/INFO]: [dynmap] version 3.4-beta-4-792 is enabled - core version 3.4-beta-4-792
+[13:26:54] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[13:26:54] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://twitter.com/Dynmap
+[13:26:54] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[13:26:54] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[13:26:54] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[13:26:54] [Server thread/INFO]: [dynmap] Loaded 13 pending tile renders for world 'world'
+[13:26:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[13:26:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[13:26:54] [Server thread/INFO]: [dynmap] Enabled
+[13:26:54] [Server thread/INFO]: Starting GS4 status listener
+[13:26:54] [Server thread/INFO]: Thread Query Listener started
+[13:26:54] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[13:26:54] [Server thread/INFO]: Running delayed init tasks
+[13:26:54] [Craft Scheduler Thread - 3/INFO]: [Essentials] Fetching version information...
+[13:26:54] [Server thread/INFO]: Done (11.678s)! For help, type "help"
+[13:26:54] [Server thread/INFO]: Timings Reset
+[13:26:54] [Server thread/WARN]: [AngelChest] ***************************************************
+[13:26:54] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
+[13:26:54] [Server thread/WARN]: [AngelChest] *  
+[13:26:54] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
+[13:26:54] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
+[13:26:54] [Server thread/WARN]: [AngelChest] *  
+[13:26:54] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
+[13:26:54] [Server thread/WARN]: [AngelChest] *  
+[13:26:54] [Server thread/WARN]: [AngelChest] * Download (Plus):
+[13:26:54] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
+[13:26:54] [Server thread/WARN]: [AngelChest] *  
+[13:26:54] [Server thread/WARN]: [AngelChest] * Download (Free):
+[13:26:54] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
+[13:26:54] [Server thread/WARN]: [AngelChest] ***************************************************
+[13:26:55] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[13:26:57] [Server thread/INFO]: [AngelChest] ========================================================
+[13:26:57] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[13:26:57] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[13:26:57] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[13:26:57] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[13:26:57] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[13:26:57] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[13:26:57] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[13:26:57] [Server thread/INFO]: [AngelChest] 
+[13:26:57] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[13:26:57] [Server thread/INFO]: [AngelChest] ========================================================
