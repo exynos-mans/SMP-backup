@@ -6,11 +6,21 @@ ports:
     onOpen: ignore
 
 tasks:
-  - name: export java
+  - name: Launch ngrok and port forward
     command: |
-      export JAVA_HOME=/workspace/workspace-images/tools/jdk-16.0.2+7
-      export PATH=$JAVA_HOME/bin:"$PATH"
-      java -version
+      bash /workspace/SMP-backup/port.sh
+
+    openMode: tab-after
+
+  - name: launch paper 
+    command: |
+      bash /workspace/SMP-backup/smp/launch.sh
+
+    openMode: tab-after
+
+  - name: Launch backup script
+    command: |
+      echo "starting backup script" && sleep 60 && bash /workspace/SMP-backup/smp/backup.sh
 
     openMode: tab-after
 
