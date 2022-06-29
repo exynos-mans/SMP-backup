@@ -111,3 +111,16 @@
 [12:18:25] [Server thread/INFO]: [AngelChest] 
 [12:18:25] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [12:18:25] [Server thread/INFO]: [AngelChest] ========================================================
+[12:19:29] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[12:19:29] [Server thread/INFO]: bruhTM_ joined the game
+[12:19:30] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:57502] logged in with entity id 241 at ([world]-874.8040042643777, 71.0, -247.16083906887246)
+[12:19:57] [Server thread/INFO]: [WEB] 10.20.190.71: yo waddup
+[12:21:55] [Server thread/INFO]: bruhTM_ issued server command: /sethome village_2
+[12:22:00] [Server thread/INFO]: bruhTM_ issued server command: /home village_1
+[12:22:04] [Server thread/INFO]: bruhTM_ issued server command: /home village_2
+[12:22:08] [Server thread/INFO]: bruhTM_ issued server command: /gc
+[12:22:26] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[12:23:33] [Server thread/INFO]: bruhTM_ issued server command: /help lore
+[12:24:06] [Server thread/INFO]: bruhTM_ issued server command: /ping
+[12:25:32] [Server thread/INFO]: bruhTM_ issued server command: /gamemode creative
+[12:25:34] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
