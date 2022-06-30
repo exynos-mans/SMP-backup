@@ -149,3 +149,7 @@
 [08:54:57] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
 [08:54:57] [Server thread/INFO]: bruhTM_ joined the game
 [08:54:57] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:48400] logged in with entity id 1652 at ([world_nether]53.73761644095206, 68.0, 0.36995484376559507)
+[09:07:00] [Server thread/INFO]: bruhTM_ issued server command: /gc
+[09:08:39] [Server thread/INFO]: bruhTM_ issued server command: /home fletcher
+[09:08:42] [Server thread/INFO]: bruhTM_ issued server command: /sethome fletcher
+[09:09:00] [Server thread/INFO]: bruhTM_ issued server command: /sethome fletcher
