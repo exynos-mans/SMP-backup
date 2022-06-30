@@ -172,3 +172,12 @@
 [09:35:31] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
 [09:35:38] [Async Chat Thread - #2/INFO]: <HaxorBeing> add /afk
 [09:35:42] [Async Chat Thread - #2/INFO]: <HaxorBeing> afk
+[09:45:10] [Server thread/INFO]: CONSOLE issued server command: /gc 
+[09:45:10] [Server thread/INFO]: Uptime: 1 hour 5 minutes 29 seconds
+[09:45:10] [Server thread/INFO]: Current TPS = 20
+[09:45:10] [Server thread/INFO]: Maximum memory: 8,144 MB.
+[09:45:10] [Server thread/INFO]: Allocated memory: 8,144 MB.
+[09:45:10] [Server thread/INFO]: Free memory: 5,944 MB.
+[09:45:10] [Server thread/INFO]: World "world": 1,154 chunks, 502 entities, 77 tiles.
+[09:45:10] [Server thread/INFO]: Nether "world_nether": 529 chunks, 145 entities, 14 tiles.
+[09:45:10] [Server thread/INFO]: The End "world_the_end": 529 chunks, 10 entities, 0 tiles.
