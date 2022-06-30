@@ -124,3 +124,13 @@
 [08:40:14] [Server thread/INFO]: [AngelChest] 
 [08:40:14] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [08:40:14] [Server thread/INFO]: [AngelChest] ========================================================
+[08:40:54] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[08:40:54] [Server thread/INFO]: bruhTM_ joined the game
+[08:40:55] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:44066] logged in with entity id 244 at ([world_nether]-36.35038710134594, 45.0, -39.2901615099681)
+[08:41:42] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[08:42:00] [Server thread/INFO]: CONSOLE issued server command: /fly disable @a
+[08:42:00] [Server thread/INFO]: Error: Player not found.
+[08:42:05] [Server thread/INFO]: CONSOLE issued server command: /fly disable bruhTM_
+[08:42:05] [Server thread/INFO]: Error: Player not found.
+[08:42:20] [Server thread/INFO]: bruhTM_ issued server command: /fly
+[08:45:23] [Server thread/INFO]: bruhTM_ has made the advancement [Those Were the Days]
