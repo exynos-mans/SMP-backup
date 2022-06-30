@@ -182,3 +182,7 @@
 [09:45:10] [Server thread/INFO]: Nether "world_nether": 529 chunks, 145 entities, 14 tiles.
 [09:45:10] [Server thread/INFO]: The End "world_the_end": 529 chunks, 10 entities, 0 tiles.
 [09:52:20] [Server thread/INFO]: HaxorBeing issued server command: /sethome SpiderSpawner
+[10:05:16] [Server thread/INFO]: HaxorBeing issued server command: /time
+[10:05:16] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
+[10:05:23] [Server thread/INFO]: HaxorBeing issued server command: /gamemode
+[10:05:23] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
