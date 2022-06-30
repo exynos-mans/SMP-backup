@@ -111,3 +111,41 @@
 [10:22:58] [Server thread/INFO]: [AngelChest] 
 [10:22:58] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [10:22:58] [Server thread/INFO]: [AngelChest] ========================================================
+[10:23:28] [User Authenticator #1/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:23:28] [Server thread/INFO]: HaxorBeing joined the game
+[10:23:29] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:51646] logged in with entity id 227 at ([world]-742.5461457009012, 36.166109260938214, -200.25063788604882)
+[10:23:37] [Server thread/INFO]: [Server] me launching lc
+[10:23:39] [Server thread/INFO]: [Server] wait ill talk
+[10:23:46] [Async Chat Thread - #0/INFO]: <HaxorBeing> GTG
+[10:23:53] [Server thread/INFO]: HaxorBeing issued server command: /homes home
+[10:23:56] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[10:23:56] [Server thread/INFO]: HaxorBeing left the game
+[10:24:25] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[10:27:28] [Server thread/INFO]: Stopping the server
+[10:27:29] [Server thread/INFO]: Stopping server
+[10:27:29] [Server thread/INFO]: [dynmap] Disabling dynmap v3.4-beta-4-792
+[10:27:29] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[10:27:29] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[10:27:30] [Server thread/INFO]: [dynmap] Disabled
+[10:27:30] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[10:27:30] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[10:27:30] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[10:27:30] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[10:27:30] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
+[10:27:30] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[10:27:30] [Server thread/INFO]: [LuckPerms] Closing storage...
+[10:27:30] [Server thread/INFO]: [LuckPerms] Goodbye!
+[10:27:30] [Server thread/INFO]: Saving players
+[10:27:30] [Server thread/INFO]: Saving worlds
+[10:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:27:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:27:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:27:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:27:31] [Server thread/INFO]: Flushing Chunk IO
+[10:27:31] [Server thread/INFO]: Closing Thread Pool
+[10:27:31] [Server thread/INFO]: Closing Server
