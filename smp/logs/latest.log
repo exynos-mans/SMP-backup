@@ -156,3 +156,7 @@
 [09:09:21] [Server thread/INFO]: bruhTM_ issued server command: /home home
 [09:12:30] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
 [09:12:30] [Server thread/INFO]: bruhTM_ left the game
+[09:17:15] [User Authenticator #3/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[09:17:15] [Server thread/INFO]: HaxorBeing joined the game
+[09:17:15] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:51708] logged in with entity id 4167 at ([world]-711.8398815711878, 64.0, -823.9725316317904)
+[09:18:43] [Server thread/INFO]: HaxorBeing issued server command: /homes home
