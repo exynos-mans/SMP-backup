@@ -146,3 +146,6 @@
 [08:54:44] [Server thread/INFO]: bruhTM_ was slain by Piglin Brute
 [08:54:44] [Server thread/INFO]: bruhTM_ lost connection: Disconnected
 [08:54:44] [Server thread/INFO]: bruhTM_ left the game
+[08:54:57] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[08:54:57] [Server thread/INFO]: bruhTM_ joined the game
+[08:54:57] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:48400] logged in with entity id 1652 at ([world_nether]53.73761644095206, 68.0, 0.36995484376559507)
