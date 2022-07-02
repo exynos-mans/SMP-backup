@@ -27,7 +27,6 @@ tasks:
 vscode:
   extensions:
     - ms-azuretools.vscode-docker
-    - timonwong.shellcheck
 
 github:
   prebuilds:

@@ -152,3 +152,31 @@
 [10:18:34] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:43740] logged in with entity id 1975 at ([world]-630.420478801082, 72.0, -197.69999998807907)
 [10:30:54] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
 [10:30:54] [Server thread/INFO]: HaxorBeing left the game
+[10:45:42] [Server thread/INFO]: Stopping the server
+[10:45:42] [Server thread/INFO]: Stopping server
+[10:45:42] [Server thread/INFO]: [dynmap] Disabling dynmap v3.4-beta-4-792
+[10:45:42] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[10:45:42] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[10:45:43] [Server thread/INFO]: [dynmap] Disabled
+[10:45:43] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[10:45:43] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[10:45:43] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[10:45:43] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[10:45:43] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
+[10:45:43] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[10:45:43] [Server thread/INFO]: [LuckPerms] Closing storage...
+[10:45:43] [Server thread/INFO]: [LuckPerms] Goodbye!
+[10:45:43] [Server thread/INFO]: Saving players
+[10:45:43] [Server thread/INFO]: Saving worlds
+[10:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:45:43] [Server thread/INFO]: Flushing Chunk IO
+[10:45:43] [Server thread/INFO]: Closing Thread Pool
+[10:45:43] [Server thread/INFO]: Closing Server
