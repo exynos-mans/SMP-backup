@@ -1,4 +1,4 @@
-sleep 420
+sleep 2
 
 cd /workspace/SMP-backup/smp
 
