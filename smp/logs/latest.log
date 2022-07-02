@@ -150,3 +150,5 @@
 [10:18:34] [User Authenticator #2/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
 [10:18:34] [Server thread/INFO]: HaxorBeing joined the game
 [10:18:34] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:43740] logged in with entity id 1975 at ([world]-630.420478801082, 72.0, -197.69999998807907)
+[10:30:54] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[10:30:54] [Server thread/INFO]: HaxorBeing left the game

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1656584636525
+  logout: 1656757854025
   login: 1656757114445
 money: '0'
 last-account-name: HaxorBeing
 logoutlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
-  x: -630.420478801082
+  x: -633.6006150115958
   y: 72.0
-  z: -197.69999998807907
-  yaw: -295.4407958984375
-  pitch: 13.917253494262695
+  z: -195.37347242176395
+  yaw: -210.99578857421875
+  pitch: 15.026308059692383
 lastlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
