@@ -1,7 +1,5 @@
-sleep 2
+sleep 420
 
 cd /workspace/SMP-backup/smp
 
-if [ "${STOP_BACKUP}" == "" ]; then
      bash backup1.sh
-fi
