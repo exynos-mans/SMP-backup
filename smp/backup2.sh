@@ -2,4 +2,9 @@ sleep 420
 
 cd /workspace/SMP-backup/smp
 
-bash backup1.sh
+if [ "${STOP_BACKUP}" == "" ]; then
+     bash backup1.sh
+else
+     echo "backup stopped forcibly!"
+     exit
+fi
