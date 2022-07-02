@@ -112,3 +112,16 @@
 [10:05:42] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [10:05:42] [Server thread/INFO]: [AngelChest] ========================================================
 [10:06:17] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:06:18] [Server thread/INFO]: bruhTM_ joined the game
+[10:06:18] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:42258] logged in with entity id 226 at ([world]-642.511377656909, 72.0, -122.82116483230158)
+[10:06:36] [Server thread/INFO]: bruhTM_ issued server command: /gc
+[10:06:39] [Server thread/INFO]: bruhTM_ issued server command: /gc
+[10:07:10] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[10:10:00] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[10:12:34] [Server thread/INFO]: bruhTM_ issued server command: /help tag
+[10:12:39] [Server thread/INFO]: bruhTM_ issued server command: /tag
+[10:12:48] [Server thread/INFO]: bruhTM_ issued server command: /tag 18ce942e-37bd-486f-bcae-5eb16f0667f9 add technoblade
+[10:12:48] [Server thread/INFO]: [bruhTM_: Added tag 'technoblade' to Pig]
+[10:13:11] [Server thread/INFO]: bruhTM_ issued server command: /help
+[10:13:17] [Server thread/INFO]: bruhTM_ issued server command: /help 2
+[10:13:20] [Server thread/INFO]: bruhTM_ issued server command: /help 3
