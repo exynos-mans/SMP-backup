@@ -5,3 +5,24 @@ t=2022-07-04T11:41:23+0000 lvl=info msg="starting web service" obj=web addr=127.
 t=2022-07-04T11:41:23+0000 lvl=info msg="tunnel session started" obj=tunnels.session
 t=2022-07-04T11:41:23+0000 lvl=info msg="client session established" obj=csess id=1e24d2b65f9e
 t=2022-07-04T11:41:23+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:25565 url=tcp://4.tcp.eu.ngrok.io:15272
+t=2022-07-04T11:44:48+0000 lvl=info msg="join connections" obj=join id=dceb1ef638d6 l=[::1]:25565 r=46.40.251.172:59096
+t=2022-07-04T11:44:48+0000 lvl=info msg="join connections" obj=join id=3c7d0c46455b l=[::1]:25565 r=46.40.251.172:2055
+t=2022-07-04T11:45:03+0000 lvl=info msg="join connections" obj=join id=f9de2446a17b l=[::1]:25565 r=46.40.251.172:59121
+t=2022-07-04T11:45:18+0000 lvl=info msg="join connections" obj=join id=27e57e47515c l=[::1]:25565 r=46.40.251.172:59147
+t=2022-07-04T11:45:33+0000 lvl=info msg="join connections" obj=join id=ee21faa902f1 l=[::1]:25565 r=46.40.251.172:59187
+t=2022-07-04T11:45:48+0000 lvl=info msg="join connections" obj=join id=1e9b48c61148 l=[::1]:25565 r=46.40.251.172:59208
+t=2022-07-04T11:46:03+0000 lvl=info msg="join connections" obj=join id=12bd0a6d5c10 l=[::1]:25565 r=46.40.251.172:59224
+t=2022-07-04T11:46:18+0000 lvl=info msg="join connections" obj=join id=b6d06fd78981 l=[::1]:25565 r=46.40.251.172:59241
+t=2022-07-04T11:46:33+0000 lvl=info msg="join connections" obj=join id=ae67f6e217b6 l=[::1]:25565 r=46.40.251.172:59257
+t=2022-07-04T11:46:48+0000 lvl=info msg="join connections" obj=join id=1ac7ff280776 l=[::1]:25565 r=46.40.251.172:59274
+t=2022-07-04T11:47:03+0000 lvl=info msg="join connections" obj=join id=48a70002cd96 l=[::1]:25565 r=46.40.251.172:59291
+t=2022-07-04T11:47:18+0000 lvl=info msg="join connections" obj=join id=36ca2149b9bc l=[::1]:25565 r=46.40.251.172:59308
+t=2022-07-04T11:47:33+0000 lvl=info msg="join connections" obj=join id=7258ba389ba6 l=[::1]:25565 r=46.40.251.172:59324
+t=2022-07-04T11:47:48+0000 lvl=info msg="join connections" obj=join id=55169cae4dca l=[::1]:25565 r=46.40.251.172:59341
+t=2022-07-04T11:48:03+0000 lvl=info msg="join connections" obj=join id=d841d1d18cff l=[::1]:25565 r=46.40.251.172:59357
+t=2022-07-04T11:48:18+0000 lvl=info msg="join connections" obj=join id=7fff2d533c75 l=[::1]:25565 r=46.40.251.172:59374
+t=2022-07-04T11:48:33+0000 lvl=info msg="join connections" obj=join id=19d984d3a3c0 l=[::1]:25565 r=46.40.251.172:59391
+t=2022-07-04T11:48:48+0000 lvl=info msg="join connections" obj=join id=7ca01fa54712 l=[::1]:25565 r=46.40.251.172:59407
+t=2022-07-04T11:49:03+0000 lvl=info msg="join connections" obj=join id=b20901251479 l=[::1]:25565 r=46.40.251.172:59435
+t=2022-07-04T11:49:18+0000 lvl=info msg="join connections" obj=join id=840c31e757d2 l=[::1]:25565 r=46.40.251.172:59453
+t=2022-07-04T11:49:33+0000 lvl=info msg="join connections" obj=join id=5ac09945b129 l=[::1]:25565 r=46.40.251.172:59470

@@ -78,3 +78,57 @@
 [11:42:21] [Server thread/INFO]: [dynmap] Enabling dynmap v3.4-beta-4-792
 [11:42:22] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.30 for access control
 [11:42:22] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[11:42:31] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[11:42:31] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[11:42:31] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[11:42:31] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[11:42:31] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[11:42:32] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[11:42:32] [Server thread/INFO]: [dynmap] version 3.4-beta-4-792 is enabled - core version 3.4-beta-4-792
+[11:42:32] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[11:42:32] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://twitter.com/Dynmap
+[11:42:32] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[11:42:32] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[11:42:32] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[11:42:32] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[11:42:32] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[11:42:32] [Server thread/INFO]: [dynmap] Enabled
+[11:42:33] [Server thread/INFO]: Starting GS4 status listener
+[11:42:33] [Server thread/INFO]: Thread Query Listener started
+[11:42:33] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[11:42:33] [Server thread/INFO]: Running delayed init tasks
+[11:42:33] [Craft Scheduler Thread - 6/INFO]: [Essentials] Fetching version information...
+[11:42:33] [Server thread/INFO]: Done (33.050s)! For help, type "help"
+[11:42:33] [Server thread/INFO]: Timings Reset
+[11:42:34] [Server thread/WARN]: [AngelChest] ***************************************************
+[11:42:34] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
+[11:42:34] [Server thread/WARN]: [AngelChest] *  
+[11:42:34] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
+[11:42:34] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
+[11:42:34] [Server thread/WARN]: [AngelChest] *  
+[11:42:34] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
+[11:42:34] [Server thread/WARN]: [AngelChest] *  
+[11:42:34] [Server thread/WARN]: [AngelChest] * Download (Plus):
+[11:42:34] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
+[11:42:34] [Server thread/WARN]: [AngelChest] *  
+[11:42:34] [Server thread/WARN]: [AngelChest] * Download (Free):
+[11:42:34] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
+[11:42:34] [Server thread/WARN]: [AngelChest] ***************************************************
+[11:42:39] [Server thread/INFO]: [AngelChest] ========================================================
+[11:42:39] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[11:42:39] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[11:42:39] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[11:42:39] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[11:42:39] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[11:42:39] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[11:42:39] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[11:42:39] [Server thread/INFO]: [AngelChest] 
+[11:42:39] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[11:42:39] [Server thread/INFO]: [AngelChest] ========================================================
+[11:44:50] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[11:44:51] [Server thread/INFO]: bruhTM_ joined the game
+[11:44:51] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:48706] logged in with entity id 234 at ([world]-598.5168640635444, 64.0, -75.75565347548324)
+[11:46:09] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[11:47:54] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[11:48:24] [Server thread/INFO]: bruhTM_ issued server command: /home fl
+[11:48:27] [Server thread/INFO]: bruhTM_ issued server command: /home fletcher
