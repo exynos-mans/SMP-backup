@@ -26,3 +26,7 @@ t=2022-07-04T11:48:48+0000 lvl=info msg="join connections" obj=join id=7ca01fa54
 t=2022-07-04T11:49:03+0000 lvl=info msg="join connections" obj=join id=b20901251479 l=[::1]:25565 r=46.40.251.172:59435
 t=2022-07-04T11:49:18+0000 lvl=info msg="join connections" obj=join id=840c31e757d2 l=[::1]:25565 r=46.40.251.172:59453
 t=2022-07-04T11:49:33+0000 lvl=info msg="join connections" obj=join id=5ac09945b129 l=[::1]:25565 r=46.40.251.172:59470
+t=2022-07-04T11:49:48+0000 lvl=info msg="join connections" obj=join id=d965106f0a86 l=[::1]:25565 r=46.40.251.172:59498
+t=2022-07-04T11:50:03+0000 lvl=info msg="join connections" obj=join id=31b5829e5edb l=[::1]:25565 r=46.40.251.172:59518
+t=2022-07-04T11:50:18+0000 lvl=info msg="join connections" obj=join id=fac455ccb48d l=[::1]:25565 r=46.40.251.172:59535
+t=2022-07-04T11:50:33+0000 lvl=info msg="join connections" obj=join id=fe28f2574b92 l=[::1]:25565 r=46.40.251.172:61829
