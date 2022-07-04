@@ -125,3 +125,30 @@
 [10:32:08] [Server thread/INFO]: [AngelChest] 
 [10:32:08] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [10:32:08] [Server thread/INFO]: [AngelChest] ========================================================
+[10:42:51] [Server thread/INFO]: Stopping server
+[10:42:51] [Server thread/INFO]: [dynmap] Disabling dynmap v3.4-beta-4-792
+[10:42:51] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[10:42:51] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[10:42:52] [Server thread/INFO]: [dynmap] Disabled
+[10:42:52] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[10:42:52] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[10:42:52] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[10:42:52] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[10:42:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
+[10:42:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[10:42:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[10:42:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[10:42:52] [Server thread/INFO]: Saving players
+[10:42:52] [Server thread/INFO]: Saving worlds
+[10:42:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:42:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:42:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:42:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:42:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:42:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:42:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:42:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:42:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:42:52] [Server thread/INFO]: Flushing Chunk IO
+[10:42:52] [Server thread/INFO]: Closing Thread Pool
+[10:42:52] [Server thread/INFO]: Closing Server
