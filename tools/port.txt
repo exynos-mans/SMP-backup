@@ -5,3 +5,5 @@ t=2022-07-04T11:34:02+0000 lvl=info msg="starting web service" obj=web addr=127.
 t=2022-07-04T11:34:02+0000 lvl=info msg="tunnel session started" obj=tunnels.session
 t=2022-07-04T11:34:02+0000 lvl=info msg="client session established" obj=csess id=c00bdecc6f28
 t=2022-07-04T11:34:02+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:25565 url=tcp://7.tcp.eu.ngrok.io:17552
+t=2022-07-04T11:37:10+0000 lvl=info msg="join connections" obj=join id=6fc9c956e82f l=[::1]:25565 r=46.40.251.172:22660
+t=2022-07-04T11:37:10+0000 lvl=info msg="join connections" obj=join id=f5d90b930583 l=[::1]:25565 r=46.40.251.172:2031

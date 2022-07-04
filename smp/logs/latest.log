@@ -112,3 +112,37 @@
 [11:34:52] [Server thread/INFO]: [AngelChest] 
 [11:34:52] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [11:34:52] [Server thread/INFO]: [AngelChest] ========================================================
+[11:37:12] [User Authenticator #1/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[11:37:12] [Server thread/INFO]: bruhTM_ joined the game
+[11:37:12] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:43482] logged in with entity id 238 at ([world]-593.6531349596071, 63.0, -60.55970080240458)
+[11:37:20] [Server thread/INFO]: bruhTM_ issued server command: /stop
+[11:37:20] [Server thread/INFO]: [bruhTM_: Stopping the server]
+[11:37:20] [Server thread/INFO]: Stopping server
+[11:37:20] [Server thread/INFO]: [dynmap] Disabling dynmap v3.4-beta-4-792
+[11:37:20] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[11:37:20] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[11:37:21] [Server thread/INFO]: [dynmap] Disabled
+[11:37:21] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[11:37:21] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[11:37:21] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[11:37:21] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[11:37:21] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
+[11:37:21] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[11:37:21] [Server thread/INFO]: [LuckPerms] Closing storage...
+[11:37:21] [Server thread/INFO]: [LuckPerms] Goodbye!
+[11:37:21] [Server thread/INFO]: Saving players
+[11:37:21] [Server thread/INFO]: bruhTM_ lost connection: Server closed
+[11:37:21] [Server thread/INFO]: bruhTM_ left the game
+[11:37:21] [Server thread/INFO]: Saving worlds
+[11:37:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:37:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:37:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:37:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:37:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:37:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:37:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:37:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:37:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:37:24] [Server thread/INFO]: Flushing Chunk IO
+[11:37:24] [Server thread/INFO]: Closing Thread Pool
+[11:37:24] [Server thread/INFO]: Closing Server
