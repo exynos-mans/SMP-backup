@@ -189,3 +189,10 @@
 [10:43:02] [Server thread/INFO]: bruhTM_ issued server command: /gamemode spectator
 [10:43:05] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
 [10:45:25] [Server thread/INFO]: Villager EntityVillager['Nitwit'/5220, uuid='f7d5db41-b172-4082-ad64-80676fa843e4', l='ServerLevel[world]', x=-873.16, y=71.00, z=-267.63, cx=-55, cz=-17, tl=104110, v=true, d=false] died, message: 'Nitwit was slain by Zombie'
+[10:47:30] [Server thread/INFO]: bruhTM_ has reached the goal [Zombie Doctor]
+[10:48:09] [Server thread/INFO]: bruhTM_ has made the advancement [What a Deal!]
+[10:48:13] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[10:48:53] [Server thread/INFO]: bruhTM_ issued server command: /back
+[10:49:11] [Server thread/INFO]: bruhTM_ issued server command: /difficulty easy
+[10:49:11] [Server thread/INFO]: [bruhTM_: The difficulty has been set to Easy]
+[10:49:13] [Server thread/INFO]: bruhTM_ issued server command: /home home
