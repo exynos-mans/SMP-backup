@@ -18,12 +18,12 @@ tasks:
 
     openMode: tab-after
 
-  - name: Launch backup script
-    command: |
-      echo "starting backup script" && sleep 60 && bash /workspace/SMP-backup/smp/backup.sh
-
-    openMode: tab-after
-
+#  - name: Launch backup script
+#    command: |
+#      echo "starting backup script" && sleep 60 && bash /workspace/SMP-backup/smp/backup.sh
+#
+#    openMode: tab-after
+#
 vscode:
   extensions:
     - ms-azuretools.vscode-docker
