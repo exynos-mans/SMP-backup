@@ -220,3 +220,41 @@
 [11:09:47] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
 [11:12:48] [Server thread/INFO]: bruhTM_ issued server command: /home home
 [11:13:31] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:15:30] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:15:47] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:18:53] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[11:19:05] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:19:18] [Server thread/INFO]: bruhTM_ issued server command: /save-all
+[11:19:19] [Server thread/INFO]: [bruhTM_: Saved the game]
+[11:19:48] [Server thread/INFO]: bruhTM_ issued server command: /stop
+[11:19:48] [Server thread/INFO]: [bruhTM_: Stopping the server]
+[11:19:48] [Server thread/INFO]: Stopping server
+[11:19:48] [Server thread/INFO]: [dynmap] Disabling dynmap v3.4-beta-4-792
+[11:19:48] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[11:19:48] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[11:19:48] [Server thread/INFO]: [dynmap] Saved 26 pending tile renders in world 'world'
+[11:19:48] [Server thread/INFO]: [dynmap] Disabled
+[11:19:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[11:19:48] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[11:19:48] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[11:19:48] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[11:19:48] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
+[11:19:48] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[11:19:48] [Server thread/INFO]: [LuckPerms] Closing storage...
+[11:19:48] [Server thread/INFO]: [LuckPerms] Goodbye!
+[11:19:48] [Server thread/INFO]: Saving players
+[11:19:48] [Server thread/INFO]: bruhTM_ lost connection: Server closed
+[11:19:48] [Server thread/INFO]: bruhTM_ left the game
+[11:19:48] [Server thread/INFO]: Saving worlds
+[11:19:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:19:49] [Server thread/INFO]: Flushing Chunk IO
+[11:19:49] [Server thread/INFO]: Closing Thread Pool
+[11:19:49] [Server thread/INFO]: Closing Server
