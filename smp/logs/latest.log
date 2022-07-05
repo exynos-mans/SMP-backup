@@ -150,3 +150,20 @@
 [10:18:58] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:34222] logged in with entity id 2405 at ([world]-633.6006150115958, 72.0, -195.37347242176395)
 [10:23:38] [Server thread/INFO]: HaxorBeing issued server command: /enderchest
 [10:23:38] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
+[10:25:43] [Server thread/INFO]: HaxorBeing issued server command: /tpa bruhTM_
+[10:25:46] [Server thread/INFO]: bruhTM_ issued server command: /tpaccept
+[10:25:47] [Server thread/INFO]: HaxorBeing has made the advancement [A Terrible Fortress]
+[10:27:52] [Async Chat Thread - #0/INFO]: <HaxorBeing> gtg
+[10:27:56] [Server thread/INFO]: HaxorBeing issued server command: /homes ho
+[10:27:58] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[10:27:58] [Server thread/INFO]: HaxorBeing left the game
+[10:28:13] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[10:28:23] [Server thread/INFO]: bruhTM_ issued server command: /tpohere HaxorBeing
+[10:28:48] [User Authenticator #4/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:28:48] [Server thread/INFO]: HaxorBeing joined the game
+[10:28:48] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:34328] logged in with entity id 4393 at ([world_nether]29.25676084547533, 66.0, -127.63243507594186)
+[10:29:03] [Server thread/INFO]: bruhTM_ issued server command: /tphere HaxorBeing
+[10:29:08] [Async Chat Thread - #1/INFO]: <HaxorBeing> tnx
+[10:29:18] [Async Chat Thread - #1/INFO]: <HaxorBeing> ayo
+[10:29:34] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[10:29:34] [Server thread/INFO]: HaxorBeing left the game
