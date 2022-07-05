@@ -139,3 +139,14 @@
 [10:12:09] [Server thread/INFO]: bruhTM_ issued server command: /home flet
 [10:12:11] [Server thread/INFO]: bruhTM_ issued server command: /home fletcher
 [10:13:21] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[10:18:30] [User Authenticator #3/INFO]: UUID of player Crabnap is 926bb19b-dbc4-47b0-83c1-62025d08fd68
+[10:18:30] [Server thread/INFO]: Crabnap joined the game
+[10:18:30] [Server thread/INFO]: Crabnap[/[0:0:0:0:0:0:0:1%0]:34214] logged in with entity id 2252 at ([world]-241.5, 66.0, 75.5)
+[10:18:50] [Server thread/INFO]: Crabnap lost connection: Disconnected
+[10:18:50] [Server thread/INFO]: Crabnap left the game
+[10:18:58] [Server thread/INFO]: bruhTM_ has made the advancement [Into Fire]
+[10:18:58] [User Authenticator #3/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[10:18:58] [Server thread/INFO]: HaxorBeing joined the game
+[10:18:58] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:34222] logged in with entity id 2405 at ([world]-633.6006150115958, 72.0, -195.37347242176395)
+[10:23:38] [Server thread/INFO]: HaxorBeing issued server command: /enderchest
+[10:23:38] [Server thread/INFO]: [Essentials] HaxorBeing was denied access to command.
