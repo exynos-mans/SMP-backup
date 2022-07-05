@@ -172,3 +172,20 @@
 [10:35:22] [Server thread/INFO]: bruhTM_ issued server command: /home fletcher
 [10:35:56] [Server thread/INFO]: Villager EntityVillager['Fletcher'/5214, uuid='9d1cc60e-d0a1-406f-ac61-8f49c05629c7', l='ServerLevel[world]', x=-888.73, y=67.84, z=-242.26, cx=-56, cz=-16, tl=83753, v=true, d=false] died, message: 'Fletcher was slain by Zombie'
 [10:37:56] [Server thread/INFO]: bruhTM_ issued server command: /time set night
+[10:40:59] [Server thread/INFO]: Villager EntityVillager['Fletcher'/5219, uuid='ab5b4ac5-52f6-4285-9dc3-df0762cfd12e', l='ServerLevel[world]', x=-888.91, y=67.90, z=-242.82, cx=-56, cz=-16, tl=101057, v=true, d=false] died, message: 'Fletcher was slain by Zombie'
+[10:41:19] [Server thread/INFO]: bruhTM_ issued server command: /time set night
+[10:41:34] [Server thread/INFO]: bruhTM_ issued server command: /spawnmob vill
+[10:41:36] [Server thread/INFO]: bruhTM_ issued server command: /spawnmob villager
+[10:41:49] [Server thread/INFO]: bruhTM_ issued server command: /spawnmob zombie
+[10:41:56] [Server thread/INFO]: bruhTM_ issued server command: /gamemode spectator
+[10:42:09] [Server thread/INFO]: Villager EntityVillager['Villager'/6150, uuid='a90852ab-fdaf-4fa6-bf9b-d920152e376c', l='ServerLevel[world]', x=-889.54, y=68.56, z=-243.90, cx=-56, cz=-16, tl=660, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[10:42:19] [Server thread/INFO]: bruhTM_ issued server command: /difficulty hard
+[10:42:19] [Server thread/INFO]: [bruhTM_: The difficulty has been set to Hard]
+[10:42:22] [Server thread/INFO]: bruhTM_ issued server command: /spawnmob villager
+[10:42:30] [Server thread/INFO]: Villager EntityVillager['Villager'/6175, uuid='6f844024-3e59-4e36-ba9e-b5252a5e4f8a', l='ServerLevel[world]', x=-889.40, y=68.48, z=-243.39, cx=-56, cz=-16, tl=166, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[10:42:36] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
+[10:42:40] [Server thread/INFO]: bruhTM_ issued server command: /gamemode spectator
+[10:42:44] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
+[10:43:02] [Server thread/INFO]: bruhTM_ issued server command: /gamemode spectator
+[10:43:05] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
+[10:45:25] [Server thread/INFO]: Villager EntityVillager['Nitwit'/5220, uuid='f7d5db41-b172-4082-ad64-80676fa843e4', l='ServerLevel[world]', x=-873.16, y=71.00, z=-267.63, cx=-55, cz=-17, tl=104110, v=true, d=false] died, message: 'Nitwit was slain by Zombie'

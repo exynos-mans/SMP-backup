@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-07-05 10:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2022-06-21 10:43:26 +0000"
@@ -488,6 +494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-07-05 10:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2022-06-21 10:48:16 +0000"
@@ -509,6 +521,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-07-02 10:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2022-07-05 10:44:48 +0000"
     },
     "done": true
   },
@@ -551,6 +569,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-06-21 10:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-07-05 10:39:13 +0000"
     },
     "done": true
   },
@@ -896,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-07-05 10:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2022-07-05 10:18:57 +0000",
@@ -942,6 +972,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2022-06-21 10:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-07-05 10:39:13 +0000"
     },
     "done": true
   },
@@ -1134,6 +1170,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-21 11:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-07-05 10:39:13 +0000"
     },
     "done": true
   },
@@ -1353,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-07-05 10:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2022-06-22 10:12:31 +0000"
@@ -1464,6 +1512,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-06-30 08:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-07-05 10:39:13 +0000"
     },
     "done": true
   },
