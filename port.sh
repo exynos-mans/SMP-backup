@@ -4,6 +4,9 @@ rm -rf port.txt
 ./ngrok tcp 25565 --log stdout >> port.txt &
 sleep 5
 bash splitter.sh
+
+sleep 30
+
 echo "Your SMP IP is $(cat port2.txt)"
 echo ""
 

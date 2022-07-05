@@ -1,7 +1,10 @@
 #!/bin/sh
-unset STOP_BACKUP
 export JAVA_HOME=/workspace/SMP-backup/tools/jdk-16.0.2+7
 export PATH=$JAVA_HOME/bin:"$PATH"
+
+git add -A
+git commit -m "$(date)"
+git push -f
 
 cd /workspace/SMP-backup/smp
 
