@@ -167,3 +167,8 @@
 [10:29:18] [Async Chat Thread - #1/INFO]: <HaxorBeing> ayo
 [10:29:34] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
 [10:29:34] [Server thread/INFO]: HaxorBeing left the game
+[10:32:06] [Server thread/INFO]: bruhTM_ has made the advancement [Local Brewery]
+[10:34:19] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[10:35:22] [Server thread/INFO]: bruhTM_ issued server command: /home fletcher
+[10:35:56] [Server thread/INFO]: Villager EntityVillager['Fletcher'/5214, uuid='9d1cc60e-d0a1-406f-ac61-8f49c05629c7', l='ServerLevel[world]', x=-888.73, y=67.84, z=-242.26, cx=-56, cz=-16, tl=83753, v=true, d=false] died, message: 'Fletcher was slain by Zombie'
+[10:37:56] [Server thread/INFO]: bruhTM_ issued server command: /time set night
