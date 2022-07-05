@@ -192,3 +192,12 @@ t=2022-07-05T10:51:46+0000 lvl=info msg="join connections" obj=join id=04b5210c6
 t=2022-07-05T10:52:01+0000 lvl=info msg="join connections" obj=join id=7519e6c0a6a0 l=[::1]:25565 r=188.66.213.236:60025
 t=2022-07-05T10:52:16+0000 lvl=info msg="join connections" obj=join id=fc27388c20d1 l=[::1]:25565 r=188.66.213.236:60058
 t=2022-07-05T10:52:31+0000 lvl=info msg="join connections" obj=join id=79c2f4963871 l=[::1]:25565 r=188.66.213.236:60074
+t=2022-07-05T10:58:05+0000 lvl=info msg="join connections" obj=join id=68bffc2bd351 l=[::1]:25565 r=188.66.213.236:34175
+t=2022-07-05T10:58:05+0000 lvl=info msg="join connections" obj=join id=2d13417d5df8 l=[::1]:25565 r=188.66.213.236:34176
+t=2022-07-05T10:58:20+0000 lvl=info msg="join connections" obj=join id=87ec1bf4ac61 l=[::1]:25565 r=188.66.213.236:34195
+t=2022-07-05T10:58:35+0000 lvl=info msg="join connections" obj=join id=3d306df12ebe l=[::1]:25565 r=188.66.213.236:34212
+t=2022-07-05T10:58:50+0000 lvl=info msg="join connections" obj=join id=a612479920d2 l=[::1]:25565 r=188.66.213.236:34228
+t=2022-07-05T10:59:05+0000 lvl=info msg="join connections" obj=join id=6a4dc18ce79d l=[::1]:25565 r=188.66.213.236:34244
+t=2022-07-05T10:59:21+0000 lvl=info msg="join connections" obj=join id=886d8e9df574 l=[::1]:25565 r=188.66.213.236:34269
+t=2022-07-05T10:59:35+0000 lvl=info msg="join connections" obj=join id=c1e92843517d l=[::1]:25565 r=188.66.213.236:34285
+t=2022-07-05T10:59:50+0000 lvl=info msg="join connections" obj=join id=c90a4cf53bb6 l=[::1]:25565 r=188.66.213.236:34302
