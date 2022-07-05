@@ -121,3 +121,21 @@
 [10:06:31] [Server thread/INFO]: bruhTM_ left the game
 [10:08:37] [Server thread/INFO]: [Server] wassup
 [10:08:46] [Server thread/INFO]: [Server] ur mom fat
+[10:09:57] [Server thread/INFO]: [Server] waddup
+[10:09:59] [Server thread/INFO]: CONSOLE issued server command: /gc 
+[10:09:59] [Server thread/INFO]: Uptime: 8 minutes 19 seconds
+[10:09:59] [Server thread/INFO]: Current TPS = 20
+[10:09:59] [Server thread/INFO]: Maximum memory: 8,144 MB.
+[10:09:59] [Server thread/INFO]: Allocated memory: 8,144 MB.
+[10:09:59] [Server thread/INFO]: Free memory: 5,999 MB.
+[10:09:59] [Server thread/INFO]: World "world": 529 chunks, 180 entities, 19 tiles.
+[10:09:59] [Server thread/INFO]: Nether "world_nether": 529 chunks, 126 entities, 14 tiles.
+[10:09:59] [Server thread/INFO]: The End "world_the_end": 529 chunks, 10 entities, 0 tiles.
+[10:10:28] [User Authenticator #2/INFO]: UUID of player bruhTM_ is f4d9067d-8749-49e3-8b33-0c879bad2c44
+[10:10:28] [Server thread/INFO]: bruhTM_ joined the game
+[10:10:28] [Server thread/INFO]: bruhTM_[/[0:0:0:0:0:0:0:1%0]:34116] logged in with entity id 963 at ([world]-651.4164445822106, 84.0, -86.69999998807907)
+[10:11:17] [Server thread/INFO]: bruhTM_ issued server command: /ping
+[10:11:23] [Server thread/INFO]: bruhTM_ issued server command: /gc
+[10:12:09] [Server thread/INFO]: bruhTM_ issued server command: /home flet
+[10:12:11] [Server thread/INFO]: bruhTM_ issued server command: /home fletcher
+[10:13:21] [Server thread/INFO]: bruhTM_ issued server command: /home home

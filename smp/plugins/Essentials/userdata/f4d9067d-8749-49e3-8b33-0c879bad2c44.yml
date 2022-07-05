@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1657015480733
+  lastteleport: 1657016001100
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1657015591625
-  login: 1657015459250
+  login: 1657015828640
 money: '0'
 last-account-name: bruhTM_
 logoutlocation:
@@ -31,11 +31,11 @@ logoutlocation:
 lastlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
-  x: -916.6439098553092
-  y: 70.0
-  z: -247.33626589836453
-  yaw: 107.24151611328125
-  pitch: 23.224952697753906
+  x: -888.4977450993915
+  y: 68.5625
+  z: -244.38148945073922
+  yaw: 45.82623291015625
+  pitch: 11.745269775390625
 homes:
   home:
     world: 6961891d-b385-480c-a60c-6fc41e1e866d
