@@ -205,3 +205,18 @@
 [11:02:53] [Server thread/INFO]: bruhTM_ issued server command: /home home
 [11:03:36] [Server thread/INFO]: bruhTM_ issued server command: /home fletcher
 [11:04:05] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:07:26] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:08:22] [Server thread/INFO]: bruhTM_ issued server command: /difficulty
+[11:08:27] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[11:08:57] [Server thread/INFO]: bruhTM_ issued server command: /back
+[11:09:01] [Server thread/INFO]: bruhTM_ issued server command: /difficulty hard
+[11:09:01] [Server thread/INFO]: [bruhTM_: The difficulty has been set to Hard]
+[11:09:06] [Server thread/INFO]: bruhTM_ issued server command: /gamemode spectator
+[11:09:14] [Server thread/INFO]: bruhTM_ issued server command: /spawnmob zombie
+[11:09:19] [Server thread/INFO]: Villager EntityVillager['Librarian'/7666, uuid='84e802a6-aefe-455f-bae2-19584dd816b6', l='ServerLevel[world]', x=-822.30, y=72.00, z=-239.70, cx=-52, cz=-15, tl=160803, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[11:09:30] [Server thread/INFO]: bruhTM_ issued server command: /gamemode creative
+[11:09:41] [Server thread/INFO]: bruhTM_ issued server command: /gamemode spectator
+[11:09:43] [Server thread/INFO]: bruhTM_ issued server command: /gamemode creative
+[11:09:47] [Server thread/INFO]: bruhTM_ issued server command: /gamemode survival
+[11:12:48] [Server thread/INFO]: bruhTM_ issued server command: /home home
+[11:13:31] [Server thread/INFO]: bruhTM_ issued server command: /back
