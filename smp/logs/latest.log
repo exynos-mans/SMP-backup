@@ -140,3 +140,48 @@
 [11:25:42] [Server thread/INFO]: Saved the game
 [11:25:42] [Server thread/INFO]: Automatic saving is now disabled
 [11:25:42] [Server thread/INFO]: Backup started.
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials] [1.16.5-#1 37957b805] Tue 05 Jul 2022 11:25:44 AM UTC
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  30 files changed, 22 insertions(+), 1 deletion(-)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-11_20.jpg (68%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_7.jpg (75%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-25_8.jpg (80%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-44_51.jpg (92%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-45_51.jpg (83%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/world/level.dat (100%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  copy smp/world/{level.dat => level.dat_old} (100%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/world_nether/level.dat (100%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  copy smp/world_nether/{level.dat => level.dat_old} (100%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  rewrite smp/world_the_end/level.dat (100%)
+[11:25:44] [Craft Scheduler Thread - 8/INFO]: [Essentials]  copy smp/world_the_end/{level.dat => level.dat_old} (100%)
+[11:25:50] [Craft Scheduler Thread - 8/INFO]: [Essentials] To https://github.com/exynos-mans/SMP-backup.git
+[11:25:50] [Craft Scheduler Thread - 8/INFO]: [Essentials]    90359501b..37957b805  1.16.5-#1 -> 1.16.5-#1
+[11:25:50] [Server thread/INFO]: Automatic saving is now enabled
+[11:25:50] [Server thread/INFO]: [Essentials] Backup finished.
+[11:26:12] [Server thread/INFO]: Stopping the server
+[11:26:12] [Server thread/INFO]: Stopping server
+[11:26:12] [Server thread/INFO]: [dynmap] Disabling dynmap v3.4-beta-4-792
+[11:26:12] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[11:26:12] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[11:26:13] [Server thread/INFO]: [dynmap] Disabled
+[11:26:13] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[11:26:13] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
+[11:26:13] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
+[11:26:13] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
+[11:26:13] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
+[11:26:13] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[11:26:13] [Server thread/INFO]: [LuckPerms] Closing storage...
+[11:26:14] [Server thread/INFO]: [LuckPerms] Goodbye!
+[11:26:14] [Server thread/INFO]: Saving players
+[11:26:14] [Server thread/INFO]: Saving worlds
+[11:26:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:26:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:26:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:26:14] [Server thread/INFO]: Flushing Chunk IO
+[11:26:14] [Server thread/INFO]: Closing Thread Pool
+[11:26:14] [Server thread/INFO]: Closing Server
