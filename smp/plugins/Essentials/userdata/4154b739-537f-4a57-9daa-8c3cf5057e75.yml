@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1657104321122
+  lastteleport: 1657105393381
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1657102525753
+  logout: 1657105868299
   login: 1657102545744
 money: '0'
 last-account-name: HaxorBeing
 logoutlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
-  x: -310.3974520031883
-  y: 82.0
-  z: -2470.8057761126224
-  yaw: -205.846435546875
-  pitch: 25.032264709472656
+  x: -942.8224373752038
+  y: 77.0
+  z: 473.6030519993787
+  yaw: 139.71017456054688
+  pitch: -1.6552661657333374
 lastlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
-  x: -641.0150268790375
-  y: 72.0
-  z: -122.17434034905452
-  yaw: -265.7769470214844
-  pitch: 13.924126625061035
+  x: -968.6999999880791
+  y: 64.0
+  z: -269.3606210342319
+  yaw: 158.39273071289062
+  pitch: 16.458797454833984
 homes:
   home:
     world: 6961891d-b385-480c-a60c-6fc41e1e866d
@@ -77,3 +77,11 @@ homes:
     z: -2240.0100676715842
     yaw: -140.45309448242188
     pitch: 24.781780242919922
+  explore:
+    world: 6961891d-b385-480c-a60c-6fc41e1e866d
+    world-name: world
+    x: -1789.219853275521
+    y: 68.0
+    z: -7295.559117122899
+    yaw: -192.78924560546875
+    pitch: 16.625667572021484
