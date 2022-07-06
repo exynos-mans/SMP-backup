@@ -5,3 +5,10 @@ t=2022-07-06T08:53:06+0000 lvl=info msg="starting web service" obj=web addr=127.
 t=2022-07-06T08:53:06+0000 lvl=info msg="tunnel session started" obj=tunnels.session
 t=2022-07-06T08:53:06+0000 lvl=info msg="client session established" obj=csess id=155f1626566d
 t=2022-07-06T08:53:06+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:25565 url=tcp://2.tcp.eu.ngrok.io:19641
+t=2022-07-06T08:57:52+0000 lvl=info msg="join connections" obj=join id=19895899e3e6 l=[::1]:25565 r=103.160.194.219:6932
+t=2022-07-06T08:57:53+0000 lvl=info msg="join connections" obj=join id=e82535145c50 l=[::1]:25565 r=103.160.194.219:6938
+t=2022-07-06T08:58:41+0000 lvl=info msg="join connections" obj=join id=5911980c103e l=[::1]:25565 r=103.160.194.219:6933
+t=2022-07-06T09:00:10+0000 lvl=info msg="join connections" obj=join id=b5ff6992671d l=[::1]:25565 r=103.160.194.219:11841
+t=2022-07-06T09:00:11+0000 lvl=info msg="join connections" obj=join id=3ec332b03f0c l=[::1]:25565 r=103.160.194.219:11845
+t=2022-07-06T09:03:50+0000 lvl=info msg="join connections" obj=join id=ce0e64b5b3cb l=[::1]:25565 r=103.160.194.219:13954
+t=2022-07-06T09:04:14+0000 lvl=info msg="join connections" obj=join id=1e9a4ab3b02c l=[::1]:25565 r=103.160.194.219:13971

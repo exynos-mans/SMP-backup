@@ -1,156 +1,886 @@
-[11:32:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:32:30] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[11:32:31] [Worker-Main-5/INFO]: Loaded 7 recipes
-[11:32:32] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[11:32:32] [Server thread/INFO]: Loading properties
-[11:32:32] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[11:32:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:32:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:32:32] [Server thread/INFO]: Debug logging is disabled
-[11:32:32] [Server thread/INFO]: Default game type: SURVIVAL
-[11:32:32] [Server thread/INFO]: Generating keypair
-[11:32:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:32:33] [Server thread/INFO]: Using epoll channel type
-[11:32:33] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.30
-[11:32:34] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
-[11:32:34] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
-[11:32:34] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
-[11:32:34] [Server thread/INFO]: [dynmap] Loading dynmap v3.4-beta-4-792
-[11:32:34] [Server thread/INFO]: [dynmap] version=git-Paper-794 (MC: 1.16.5)
-[11:32:34] [Server thread/INFO]: [dynmap] Mod Support API available
-[11:32:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:32:34] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.30
-[11:32:34] [Server thread/INFO]:         __    
-[11:32:34] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.30
-[11:32:34] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[11:32:34] [Server thread/INFO]: 
-[11:32:34] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[11:32:35] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[11:32:35] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[11:32:35] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[11:32:35] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1417ms)
-[11:32:35] [Server thread/INFO]: Preparing level "world"
-[11:32:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:32:37] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:37] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:37] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:37] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:38] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:38] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:39] [Server thread/INFO]: Preparing spawn area: 1%
-[11:32:39] [Server thread/INFO]: Time elapsed: 3111 ms
-[11:32:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[11:32:40] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:40] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:40] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:41] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:41] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:41] [Server thread/INFO]: Time elapsed: 2483 ms
-[11:32:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[11:32:42] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:42] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:44] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:44] [Server thread/INFO]: Preparing spawn area: 0%
-[11:32:44] [Server thread/INFO]: Preparing spawn area: 91%
-[11:32:45] [Server thread/INFO]: Preparing spawn area: 99%
-[11:32:45] [Worker-Main-3/INFO]: Preparing spawn area: 100%
-[11:32:45] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[11:32:46] [Worker-Main-3/INFO]: Preparing spawn area: 100%
-[11:32:46] [Server thread/INFO]: Time elapsed: 4715 ms
-[11:32:46] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
-[11:32:46] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
-[11:32:46] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
-[11:32:47] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[11:32:47] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[11:32:47] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[11:32:47] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[11:32:47] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[11:32:48] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
-[11:32:49] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[11:32:49] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[11:32:50] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
-[11:32:50] [Server thread/INFO]: [Essentials] Using locale en_US
-[11:32:50] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[11:32:50] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[11:32:50] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[11:32:50] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[11:32:50] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[11:32:50] [Server thread/INFO]: [dynmap] Enabling dynmap v3.4-beta-4-792
-[11:32:52] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.30 for access control
-[11:32:52] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[11:32:55] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[11:32:55] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[11:32:55] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[11:32:55] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[11:32:55] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[11:32:55] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[11:32:55] [Server thread/INFO]: [dynmap] version 3.4-beta-4-792 is enabled - core version 3.4-beta-4-792
-[11:32:55] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[11:32:55] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://twitter.com/Dynmap
-[11:32:55] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[11:32:55] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[11:32:55] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[11:32:55] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[11:32:55] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[11:32:55] [Server thread/INFO]: [dynmap] Enabled
-[11:32:56] [Server thread/INFO]: Starting GS4 status listener
-[11:32:56] [Server thread/INFO]: Thread Query Listener started
-[11:32:56] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[11:32:56] [Server thread/INFO]: Running delayed init tasks
-[11:32:56] [Craft Scheduler Thread - 2/INFO]: [Essentials] Fetching version information...
-[11:32:56] [Server thread/INFO]: Done (23.580s)! For help, type "help"
-[11:32:56] [Server thread/INFO]: Timings Reset
-[11:32:56] [Server thread/WARN]: [AngelChest] ***************************************************
-[11:32:56] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
-[11:32:56] [Server thread/WARN]: [AngelChest] *  
-[11:32:56] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
-[11:32:56] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
-[11:32:56] [Server thread/WARN]: [AngelChest] *  
-[11:32:56] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
-[11:32:56] [Server thread/WARN]: [AngelChest] *  
-[11:32:56] [Server thread/WARN]: [AngelChest] * Download (Plus):
-[11:32:56] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
-[11:32:56] [Server thread/WARN]: [AngelChest] *  
-[11:32:56] [Server thread/WARN]: [AngelChest] * Download (Free):
-[11:32:56] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
-[11:32:56] [Server thread/WARN]: [AngelChest] ***************************************************
-[11:32:58] [Server thread/INFO]: [AngelChest] ========================================================
-[11:32:58] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[11:32:58] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[11:32:58] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[11:32:58] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[11:32:58] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[11:32:58] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[11:32:58] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[11:32:58] [Server thread/INFO]: [AngelChest] 
-[11:32:58] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[11:32:58] [Server thread/INFO]: [AngelChest] ========================================================
-[11:35:47] [Server thread/INFO]: Stopping the server
-[11:35:47] [Server thread/INFO]: Stopping server
-[11:35:47] [Server thread/INFO]: [dynmap] Disabling dynmap v3.4-beta-4-792
-[11:35:47] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[11:35:47] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[11:35:48] [Server thread/INFO]: [dynmap] Disabled
-[11:35:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
-[11:35:48] [Server thread/INFO]: [AngelChest] Disabling AngelChest v9.2.0
-[11:35:48] [Server thread/INFO]: [SpigotPing] Disabling SpigotPing v2.6
-[11:35:48] [Server thread/INFO]: [SpigotPing] Cancelling tasks...
-[11:35:48] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.30
-[11:35:48] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[11:35:48] [Server thread/INFO]: [LuckPerms] Closing storage...
-[11:35:48] [Server thread/INFO]: [LuckPerms] Goodbye!
-[11:35:48] [Server thread/INFO]: Saving players
-[11:35:49] [Server thread/INFO]: Saving worlds
-[11:35:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:35:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:35:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[11:35:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:35:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[11:35:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:35:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:35:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:35:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:35:50] [Server thread/INFO]: Flushing Chunk IO
-[11:35:50] [Server thread/INFO]: Closing Thread Pool
-[11:35:50] [Server thread/INFO]: Closing Server
+[08:53:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:53:30] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[08:53:31] [Worker-Main-5/INFO]: Loaded 7 recipes
+[08:53:33] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[08:53:33] [Server thread/INFO]: Loading properties
+[08:53:33] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[08:53:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:53:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:53:33] [Server thread/INFO]: Debug logging is disabled
+[08:53:33] [Server thread/INFO]: Default game type: SURVIVAL
+[08:53:33] [Server thread/INFO]: Generating keypair
+[08:53:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:53:34] [Server thread/INFO]: Using epoll channel type
+[08:53:34] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.30
+[08:53:35] [Server thread/INFO]: [SpigotPing] Loading SpigotPing v2.6
+[08:53:35] [Server thread/INFO]: [AngelChest] Loading AngelChest v9.2.0
+[08:53:35] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[08:53:35] [Server thread/INFO]: [dynmap] Loading dynmap v3.4-beta-4-792
+[08:53:35] [Server thread/INFO]: [dynmap] version=git-Paper-794 (MC: 1.16.5)
+[08:53:35] [Server thread/INFO]: [dynmap] Mod Support API available
+[08:53:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:53:35] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.30
+[08:53:35] [Server thread/INFO]:         __    
+[08:53:35] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.30
+[08:53:35] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[08:53:35] [Server thread/INFO]: 
+[08:53:35] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[08:53:36] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[08:53:36] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:53:36] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:53:36] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1433ms)
+[08:53:36] [Server thread/INFO]: Preparing level "world"
+[08:53:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:53:38] [Server thread/INFO]: Preparing spawn area: 0%
+[08:53:38] [Server thread/INFO]: Preparing spawn area: 0%
+[08:53:38] [Server thread/INFO]: Preparing spawn area: 0%
+[08:53:38] [Server thread/INFO]: Time elapsed: 1300 ms
+[08:53:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:53:38] [Server thread/INFO]: Preparing spawn area: 0%
+[08:53:39] [Server thread/INFO]: Preparing spawn area: 19%
+[08:53:39] [Server thread/INFO]: Time elapsed: 908 ms
+[08:53:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:53:39] [Server thread/INFO]: Preparing spawn area: 0%
+[08:53:39] [Worker-Main-1/INFO]: Preparing spawn area: 100%
+[08:53:40] [Server thread/INFO]: Time elapsed: 625 ms
+[08:53:40] [Server thread/INFO]: [SpigotPing] Enabling SpigotPing v2.6
+[08:53:40] [Server thread/INFO]: [SpigotPing] TabList is enabled, task added with a delay of 5 second/s.
+[08:53:40] [Server thread/INFO]: [AngelChest] Enabling AngelChest v9.2.0
+[08:53:40] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[08:53:40] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[08:53:40] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[08:53:40] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[08:53:40] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[08:53:40] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[08:53:40] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[08:53:40] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[08:53:41] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[08:53:41] [Server thread/INFO]: [Essentials] Using locale en_US
+[08:53:41] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:53:41] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:53:41] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[08:53:41] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[08:53:41] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[08:53:41] [Server thread/INFO]: [dynmap] Enabling dynmap v3.4-beta-4-792
+[08:53:41] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.30 for access control
+[08:53:41] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[08:53:45] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[08:53:45] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[08:53:45] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[08:53:45] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[08:53:45] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[08:53:46] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[08:53:46] [Server thread/INFO]: [dynmap] version 3.4-beta-4-792 is enabled - core version 3.4-beta-4-792
+[08:53:46] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[08:53:46] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://twitter.com/Dynmap
+[08:53:46] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[08:53:46] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[08:53:46] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[08:53:46] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[08:53:46] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[08:53:46] [Server thread/INFO]: [dynmap] Enabled
+[08:53:46] [Server thread/INFO]: Starting GS4 status listener
+[08:53:46] [Server thread/INFO]: Thread Query Listener started
+[08:53:46] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[08:53:46] [Server thread/INFO]: Running delayed init tasks
+[08:53:46] [Craft Scheduler Thread - 0/INFO]: [Essentials] Fetching version information...
+[08:53:46] [Server thread/INFO]: Done (13.216s)! For help, type "help"
+[08:53:46] [Server thread/INFO]: Timings Reset
+[08:53:47] [Server thread/WARN]: [AngelChest] ***************************************************
+[08:53:47] [Server thread/WARN]: [AngelChest] * There is a new version of AngelChest available!
+[08:53:47] [Server thread/WARN]: [AngelChest] *  
+[08:53:47] [Server thread/WARN]: [AngelChest] * Your version:   9.2.0
+[08:53:47] [Server thread/WARN]: [AngelChest] * Latest version: 9.3.0
+[08:53:47] [Server thread/WARN]: [AngelChest] *  
+[08:53:47] [Server thread/WARN]: [AngelChest] * Please update to the newest version.
+[08:53:47] [Server thread/WARN]: [AngelChest] *  
+[08:53:47] [Server thread/WARN]: [AngelChest] * Download (Plus):
+[08:53:47] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/88214
+[08:53:47] [Server thread/WARN]: [AngelChest] *  
+[08:53:47] [Server thread/WARN]: [AngelChest] * Download (Free):
+[08:53:47] [Server thread/WARN]: [AngelChest] *   https://www.spigotmc.org/resources/60383
+[08:53:47] [Server thread/WARN]: [AngelChest] ***************************************************
+[08:53:50] [Server thread/INFO]: [AngelChest] ========================================================
+[08:53:50] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[08:53:50] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[08:53:50] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[08:53:50] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[08:53:50] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[08:53:50] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[08:53:50] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[08:53:50] [Server thread/INFO]: [AngelChest] 
+[08:53:50] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[08:53:50] [Server thread/INFO]: [AngelChest] ========================================================
+[08:57:56] [User Authenticator #1/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[08:57:57] [Server thread/INFO]: HaxorBeing joined the game
+[08:57:57] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:52228] logged in with entity id 234 at ([world]-635.7384325792472, 72.0, -194.1709525167413)
+[08:58:41] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[08:58:41] [Server thread/INFO]: HaxorBeing left the game
+[09:00:12] [User Authenticator #2/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[09:00:12] [Server thread/INFO]: HaxorBeing joined the game
+[09:00:12] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:52244] logged in with entity id 606 at ([world]-618.3000000119209, 69.0, -187.30184477435273)
+[09:00:46] [Server thread/INFO]: [Essentials] Backup started.
+[09:00:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[09:00:47] [Server thread/INFO]: Saved the game
+[09:00:47] [Server thread/INFO]: Automatic saving is now disabled
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] fatal: confused by unstable object source data for af142efc22248e15e5a15c9ffe6a70b9454cd17a
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] On branch 1.16.5-#1
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] Your branch is up to date with 'origin/1.16.5-#1'.
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] Changes not staged for commit:
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials]   (use "git add <file>..." to update what will be committed)
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials]   (use "git restore <file>..." to discard changes in working directory)
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/logs/latest.log
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/plugins/Essentials/userdata/4154b739-537f-4a57-9daa-8c3cf5057e75.yml
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/plugins/LuckPerms/luckperms-h2.mv.db
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world.json
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world_nether.json
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world_the_end.json
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/server.properties
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/usercache.json
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/data/raids.dat
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/level.dat
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/level.dat_old
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat_old
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/region/r.-1.-1.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/region/r.-1.0.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/region/r.-2.-1.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/region/r.-2.0.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world/stats/4154b739-537f-4a57-9daa-8c3cf5057e75.json
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/data/raids.dat
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.-1.-1.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.-1.0.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.0.-1.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.0.0.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_nether/level.dat
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_nether/level.dat_old
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/data/raids_end.dat
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.-1.-1.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.-1.0.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.0.-1.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.0.0.mca
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_the_end/level.dat
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   smp/world_the_end/level.dat_old
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	modified:   tools/port.txt
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] Untracked files:
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials]   (use "git add <file>..." to include in what will be committed)
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 	smp/logs/2022-07-05-3.log.gz
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] 
+[09:00:48] [Craft Scheduler Thread - 45/INFO]: [Essentials] no changes added to commit (use "git add" and/or "git commit -a")
+[09:00:49] [Craft Scheduler Thread - 45/INFO]: [Essentials] Everything up-to-date
+[09:00:49] [Server thread/INFO]: Automatic saving is now enabled
+[09:00:49] [Server thread/INFO]: [Essentials] Backup finished.
+[09:00:55] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[09:03:49] [Server thread/INFO]: HaxorBeing lost connection: Disconnected
+[09:03:49] [Server thread/INFO]: HaxorBeing left the game
+[09:04:15] [User Authenticator #3/INFO]: UUID of player HaxorBeing is 4154b739-537f-4a57-9daa-8c3cf5057e75
+[09:04:15] [Server thread/INFO]: HaxorBeing joined the game
+[09:04:15] [Server thread/INFO]: HaxorBeing[/[0:0:0:0:0:0:0:1%0]:52256] logged in with entity id 1197 at ([world]-627.3213552823511, 72.5625, -197.69999998807907)
+[09:07:46] [Server thread/INFO]: [Essentials] Backup started.
+[09:07:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[09:07:47] [Server thread/INFO]: Saved the game
+[09:07:47] [Server thread/INFO]: Automatic saving is now disabled
+[09:07:48] [Craft Scheduler Thread - 88/INFO]: [Essentials] fatal: confused by unstable object source data for 021f82302ad0c44117e4a0137f100d7b0966abb4
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] On branch 1.16.5-#1
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] Your branch is up to date with 'origin/1.16.5-#1'.
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] Changes not staged for commit:
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials]   (use "git add <file>..." to update what will be committed)
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials]   (use "git restore <file>..." to discard changes in working directory)
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/logs/latest.log
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/Essentials/userdata/4154b739-537f-4a57-9daa-8c3cf5057e75.yml
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/LuckPerms/luckperms-h2.mv.db
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world.json
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world_nether.json
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world_the_end.json
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-10_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-10_17.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-13_17.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-14_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-4_15.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-5_13.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-5_15.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_13.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_14.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_15.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_13.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_19.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_20.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-8_14.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-9_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-9_17.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_18.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-14_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-14_18.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-4_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-6_14.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-6_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-8_14.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-8_20.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-12_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-12_20.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-16_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-16_20.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-8_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-8_20.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-16_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-16_24.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-8_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-8_24.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzzz_-16_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_1/zzzz_-16_32.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_1/zzzzz_-32_32.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/0_0/4_13.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct_-1_0.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct_-1_1.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct_0_0.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-11_5.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-11_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-12_5.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-12_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_3.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_5.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_9.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-14_9.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_11.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_12.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_5.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_7.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-16_5.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-16_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-19_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_10.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_5.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_7.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-21_10.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-21_3.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-21_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-22_3.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-22_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-23_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-12_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-14_10.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-14_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-14_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-16_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-16_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_10.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_6.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_10.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-24_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-12_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-16_12.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-16_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-20_12.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-20_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_12.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_4.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-16_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-16_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-24_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-24_8.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzzz_-16_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzzz_-32_16.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_1/zzzzz_-32_32.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat_-1_0.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat_-1_1.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_0/-26_30.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-12_34.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-13_34.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-13_40.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-15_41.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-19_35.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-20_34.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-20_35.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-21_37.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-22_37.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-22_43.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-23_42.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-23_43.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-24_35.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-25_38.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-25_50.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-26_37.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-26_50.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-26_51.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_37.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_50.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_51.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_37.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_38.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_51.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-29_37.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-29_38.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-7_45.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-8_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-14_34.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-14_40.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-20_34.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-20_36.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-22_38.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-26_38.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-26_50.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-26_52.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_38.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_50.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_52.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-30_38.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-24_40.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-28_40.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-28_52.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-32_40.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_40.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_56.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzzz_-32_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_2/zzzz_-32_64.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_2/zzzzz_-32_64.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-33_43.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_43.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_45.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_47.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-35_46.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-35_47.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-35_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_43.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_46.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-37_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-38_43.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-39_43.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-49_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-49_45.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-53_46.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-54_47.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-34_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-34_46.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-34_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_46.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-38_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-40_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-50_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-50_46.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-54_46.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-54_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-36_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-36_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-40_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-52_44.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-52_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-56_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-40_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-56_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzz_-48_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzz_-64_48.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_2/zzzzz_-64_64.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_2/zzzzzz_-64_64.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-4_4/zzzzzzz_-128_128.jpg
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-1_0.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-1_1.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-1_2.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-2_1.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-2_2.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-4_4.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_0_0.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_0_1.hash
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/server.properties
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/usercache.json
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/advancements/4154b739-537f-4a57-9daa-8c3cf5057e75.json
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/data/raids.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/data/scoreboard.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/level.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/level.dat_old
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat_old
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/region/r.-1.-1.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/region/r.-1.0.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/region/r.-2.-1.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/region/r.-2.0.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world/stats/4154b739-537f-4a57-9daa-8c3cf5057e75.json
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/data/raids.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.-1.-1.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.-1.0.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.0.-1.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.0.0.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_nether/level.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_nether/level.dat_old
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/data/raids_end.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.-1.-1.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.-1.0.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.0.-1.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.0.0.mca
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_the_end/level.dat
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   smp/world_the_end/level.dat_old
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	modified:   tools/port.txt
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] Untracked files:
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials]   (use "git add <file>..." to include in what will be committed)
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 	smp/logs/2022-07-05-3.log.gz
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] 
+[09:07:49] [Craft Scheduler Thread - 88/INFO]: [Essentials] no changes added to commit (use "git add" and/or "git commit -a")
+[09:07:50] [Craft Scheduler Thread - 88/INFO]: [Essentials] Everything up-to-date
+[09:07:50] [Server thread/INFO]: Automatic saving is now enabled
+[09:07:50] [Server thread/INFO]: [Essentials] Backup finished.
+[09:10:53] [Server thread/INFO]: [Server] sup u there
+[09:10:56] [Async Chat Thread - #0/INFO]: <HaxorBeing> YES
+[09:10:59] [Async Chat Thread - #0/INFO]: <HaxorBeing> oops cap
+[09:11:10] [Server thread/INFO]: [Server] okok play
+[09:11:13] [Server thread/INFO]: [Server] ill come in an hour
+[09:11:14] [Async Chat Thread - #0/INFO]: <HaxorBeing> u coming?
+[09:11:16] [Async Chat Thread - #0/INFO]: <HaxorBeing> nice nice
+[09:11:17] [Server thread/INFO]: [Server] yes
+[09:11:19] [Server thread/INFO]: [Server] ok
+[09:11:34] [Async Chat Thread - #0/INFO]: <HaxorBeing> me gonna make a cow farm
+[09:14:46] [Server thread/INFO]: [Essentials] Backup started.
+[09:14:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[09:14:46] [Server thread/INFO]: Saved the game
+[09:14:46] [Server thread/INFO]: Automatic saving is now disabled
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] fatal: confused by unstable object source data for 97f6c47b4d82ae63e3f3f265db869ab723401b6d
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] On branch 1.16.5-#1
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] Your branch is up to date with 'origin/1.16.5-#1'.
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] Changes not staged for commit:
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials]   (use "git add <file>..." to update what will be committed)
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials]   (use "git restore <file>..." to discard changes in working directory)
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/.console_history
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/logs/latest.log
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/Essentials/userdata/4154b739-537f-4a57-9daa-8c3cf5057e75.yml
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/LuckPerms/luckperms-h2.mv.db
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world.json
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world_nether.json
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/_markers_/marker_world_the_end.json
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-10_15.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-10_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-10_17.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-10_19.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-11_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-11_17.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-11_19.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-12_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-12_17.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-13_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-13_17.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-14_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-14_17.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-14_19.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-15_17.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-4_15.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-5_13.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-5_15.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_13.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_14.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_15.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_13.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_19.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-8_14.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-9_15.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-9_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-9_17.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/-9_18.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_18.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-12_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-12_18.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-12_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-14_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-14_18.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-14_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-16_18.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-4_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-6_14.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-6_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-8_14.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-8_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-12_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-12_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-16_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-16_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-4_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-8_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-8_20.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-16_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-16_24.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-8_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-8_24.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzzz_-16_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_1/zzzz_-16_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/-1_1/zzzzz_-32_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/0_0/4_13.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/0_0/z_4_14.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/0_0/zz_4_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/0_0/zzz_0_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/0_0/zzzz_0_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct/0_1/zzzzz_0_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct_-1_0.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct_-1_1.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct_0_0.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/ct_0_1.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-11_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-11_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-12_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-12_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_3.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-13_9.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-14_9.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_11.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_12.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_7.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-16_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-16_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_10.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_7.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-21_10.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-21_3.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-21_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-22_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-22_7.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-23_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_1.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_3.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_5.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-25_0.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-25_1.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/-26_1.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-12_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-14_10.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-14_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-14_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-16_12.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-16_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-16_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_10.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_10.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-24_2.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-24_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-24_6.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-26_0.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-26_2.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-12_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-16_12.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-16_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-16_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-20_12.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-20_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_12.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-28_0.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-28_4.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-16_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-16_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-24_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-24_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-32_0.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-32_8.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzzz_-16_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzzz_-32_0.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzzz_-32_16.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzzzz_-32_0.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat/-1_1/zzzzz_-32_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat_-1_0.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/flat_-1_1.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_0/-26_30.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_0/z_-26_30.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-12_34.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-13_34.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-13_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-15_41.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-19_35.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-20_34.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-20_35.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-21_37.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-22_37.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-22_43.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-23_42.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-23_43.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-24_35.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-25_50.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-26_37.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-26_50.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-26_51.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_37.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_50.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_51.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_37.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_38.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_51.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-29_37.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-29_38.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-7_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/-8_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-12_34.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-14_34.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-14_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-16_42.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-20_34.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-20_36.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-22_38.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-22_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-24_36.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-24_42.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-24_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-26_38.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-26_50.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-26_52.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_38.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_50.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_52.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-30_38.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-8_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-8_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-12_36.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-16_36.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-16_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-16_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-20_36.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-24_36.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-24_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-24_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-28_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-28_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-28_52.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-32_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-8_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-8_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-16_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-16_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-24_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-24_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_56.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-8_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzzz_-16_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzzz_-32_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzzz_-32_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_1/zzzzz_-32_32.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_2/zzzz_-32_64.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-1_2/zzzzz_-32_64.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_43.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_47.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-35_41.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-35_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-35_47.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-35_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_41.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_43.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-37_41.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-37_43.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-37_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-37_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-38_41.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-38_43.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-38_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-38_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-39_43.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-39_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-39_49.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-40_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-40_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-41_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-41_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-41_49.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-42_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-43_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-44_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-45_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-45_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-46_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-47_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-47_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-48_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-48_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-49_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-49_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-50_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-50_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-51_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-51_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-51_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-52_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-52_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-52_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-53_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-53_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-53_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-54_47.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-54_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-56_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-56_47.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-57_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-57_47.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/-58_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-34_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-34_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-34_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_40.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_42.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-38_42.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-38_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-38_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-40_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-40_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-40_50.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-42_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-42_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-42_50.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-44_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-46_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-46_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-48_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-48_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-50_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-50_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-52_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-52_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-54_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-54_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-56_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-56_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-58_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-58_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-36_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-36_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-40_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-40_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-40_52.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-44_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-44_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-44_52.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-48_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-48_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-52_44.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-52_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-56_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-60_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-40_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-48_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-56_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-64_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzz_-48_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzz_-64_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_2/zzzzz_-64_64.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-2_2/zzzzzz_-64_64.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-3_1/-67_45.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-3_1/-67_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-3_1/z_-68_46.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-3_1/zz_-68_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-3_1/zzz_-72_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-3_1/zzzz_-80_48.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-3_2/zzzzz_-96_64.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-4_2/zzzzzz_-128_64.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t/-4_4/zzzzzzz_-128_128.jpg
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-1_0.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-1_1.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-1_2.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-2_1.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-2_2.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-3_1.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-3_2.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-4_2.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/plugins/dynmap/web/tiles/world/t_-4_4.hash
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/server.properties
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/usercache.json
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/advancements/4154b739-537f-4a57-9daa-8c3cf5057e75.json
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/data/raids.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/data/scoreboard.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/level.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/level.dat_old
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat_old
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/region/r.-1.-1.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/region/r.-1.0.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/region/r.-2.-1.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/region/r.-2.0.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world/stats/4154b739-537f-4a57-9daa-8c3cf5057e75.json
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/data/raids.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.-1.-1.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.-1.0.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.0.-1.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_nether/DIM-1/region/r.0.0.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_nether/level.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_nether/level.dat_old
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/data/raids_end.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.-1.-1.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.-1.0.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.0.-1.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_the_end/DIM1/region/r.0.0.mca
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_the_end/level.dat
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   smp/world_the_end/level.dat_old
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	modified:   tools/port.txt
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] Untracked files:
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials]   (use "git add <file>..." to include in what will be committed)
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 	smp/logs/2022-07-05-3.log.gz
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] 
+[09:14:47] [Craft Scheduler Thread - 130/INFO]: [Essentials] no changes added to commit (use "git add" and/or "git commit -a")
+[09:14:48] [Craft Scheduler Thread - 130/INFO]: [Essentials] Everything up-to-date
+[09:14:48] [Server thread/INFO]: Automatic saving is now enabled
+[09:14:48] [Server thread/INFO]: [Essentials] Backup finished.
+[09:16:00] [Server thread/INFO]: CONSOLE issued server command: /gc 
+[09:16:00] [Server thread/INFO]: Uptime: 22 minutes 41 seconds
+[09:16:00] [Server thread/INFO]: Current TPS = 20
+[09:16:00] [Server thread/INFO]: Maximum memory: 8,144 MB.
+[09:16:00] [Server thread/INFO]: Allocated memory: 8,144 MB.
+[09:16:00] [Server thread/INFO]: Free memory: 6,034 MB.
+[09:16:00] [Server thread/INFO]: World "world": 1,154 chunks, 653 entities, 65 tiles.
+[09:16:00] [Server thread/INFO]: Nether "world_nether": 529 chunks, 123 entities, 14 tiles.
+[09:16:00] [Server thread/INFO]: The End "world_the_end": 529 chunks, 10 entities, 0 tiles.
+[09:18:42] [Server thread/INFO]: The difficulty is Hard
+[09:18:46] [Server thread/INFO]: The difficulty has been set to Easy
+[09:19:23] [Server thread/INFO]: HaxorBeing issued server command: /sethome mainvillage
+[09:19:37] [Server thread/INFO]: HaxorBeing issued server command: /sethome village1
+[09:20:56] [Server thread/INFO]: CONSOLE issued server command: /gc 
+[09:20:56] [Server thread/INFO]: Uptime: 27 minutes 37 seconds
+[09:20:56] [Server thread/INFO]: Current TPS = 20
+[09:20:56] [Server thread/INFO]: Maximum memory: 8,144 MB.
+[09:20:56] [Server thread/INFO]: Allocated memory: 8,144 MB.
+[09:20:56] [Server thread/INFO]: Free memory: 6,489 MB.
+[09:20:56] [Server thread/INFO]: World "world": 1,181 chunks, 689 entities, 88 tiles.
+[09:20:56] [Server thread/INFO]: Nether "world_nether": 529 chunks, 122 entities, 14 tiles.
+[09:20:56] [Server thread/INFO]: The End "world_the_end": 529 chunks, 10 entities, 0 tiles.
+[09:21:46] [Server thread/INFO]: [Essentials] Backup started.
+[09:21:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[09:21:46] [Server thread/INFO]: Saved the game
+[09:21:46] [Server thread/INFO]: Automatic saving is now disabled
