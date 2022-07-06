@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1657098229748
-  login: 1657098256024
+  logout: 1657101722692
+  login: 1657101730150
 money: '0'
 last-account-name: HaxorBeing
 logoutlocation:
   world: 6961891d-b385-480c-a60c-6fc41e1e866d
   world-name: world
-  x: -627.3213552823511
-  y: 72.5625
-  z: -197.69999998807907
-  yaw: -321.507568359375
-  pitch: 25.306537628173828
+  x: -594.6639451775271
+  y: 73.02442408821369
+  z: -886.0908368947946
+  yaw: -178.379638671875
+  pitch: 36.80775833129883
 lastlocation:
   world: f2880bd8-9a9f-4d53-8cc8-8441b4b4ed67
   world-name: world_nether
@@ -61,4 +61,3 @@ homes:
     z: -180.69999998807907
     yaw: -283.265625
     pitch: 12.636051177978516
-nickname: animethighs
