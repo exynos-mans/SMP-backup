@@ -2379,3 +2379,382 @@
 [10:03:46] [Server thread/INFO]: Saving the game (this may take a moment!)
 [10:03:47] [Server thread/INFO]: Saved the game
 [10:03:47] [Server thread/INFO]: Automatic saving is now disabled
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials] [1.16.5-#1 ec31356e9] Wed 06 Jul 2022 10:03:57 AM UTC
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  648 files changed, 726 insertions(+), 27 deletions(-)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-10_18.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-12_15.jpg (78%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-12_16.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-13_15.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-15_17.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-5_27.jpg (79%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_26.jpg (76%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_27.jpg (68%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-6_28.jpg (93%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_27.jpg (92%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-7_28.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-8_27.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/-9_17.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_10.jpg (61%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_14.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-10_18.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-12_14.jpg (61%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-12_16.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-6_22.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-6_28.jpg (93%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/z_-8_28.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-12_16.jpg (76%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-16_16.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/zz_-8_28.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-16_16.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-8_16.jpg (69%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzz_-8_24.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_0/zzzz_-16_16.jpg (92%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_1/zzzz_-16_32.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/-1_1/zzzzz_-32_32.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/11_30.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/13_30.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/13_31.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/14_28.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/14_29.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/14_30.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/14_31.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/15_28.jpg (91%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/15_29.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/15_30.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/1_26.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/2_26.jpg (61%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/8_26.jpg (68%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/z_0_26.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/z_10_30.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/z_12_30.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/z_14_30.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/z_2_26.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/z_8_26.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/z_8_30.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_0/zz_0_28.jpg (61%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_1/13_32.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/ct/0_1/13_33.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_1/14_32.jpg (64%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/ct/0_1/14_33.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/ct/0_1/15_32.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_1/z_12_32.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/ct/0_1/z_12_34.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_1/z_14_32.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/ct/0_1/z_14_34.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_1/zzzz_0_32.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/ct/0_1/zzzzz_0_32.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_1.jpg (66%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-15_5.jpg (63%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-16_22.jpg (75%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-18_3.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-19_22.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-19_3.jpg (63%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_2.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_21.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_23.jpg (79%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-20_7.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-21_2.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-22_12.jpg (75%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-22_7.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_3.jpg (76%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-24_4.jpg (66%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-25_8.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-26_17.jpg (64%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-27_16.jpg (62%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-27_17.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-27_18.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-28_16.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-28_17.jpg (74%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/-28_18.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-16_22.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-18_30.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_22.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_30.jpg (66%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-20_8.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_12.jpg (79%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_2.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_30.jpg (74%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-22_8.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-24_4.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-26_8.jpg (72%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/z_-28_18.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-16_24.jpg (63%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-20_24.jpg (79%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-20_4.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-20_8.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_12.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_4.jpg (78%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-24_8.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-28_16.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zz_-28_8.jpg (77%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-16_24.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-16_8.jpg (69%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-24_24.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-24_8.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-32_16.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzz_-32_8.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_0/zzzz_-32_16.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/-13_33.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/-13_34.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/-14_33.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/-14_34.jpg (74%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/-15_34.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/-17_33.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/z_-14_34.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/z_-16_34.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/z_-18_34.jpg (66%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/zz_-16_36.jpg (77%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/flat/-1_1/zzzzz_-32_32.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-23_56.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-25_54.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-26_54.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_54.jpg (78%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-27_55.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_38.jpg (77%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-28_54.jpg (75%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-29_38.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/-31_47.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-24_56.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-26_54.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_38.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-28_54.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/z_-30_38.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-24_56.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-28_56.jpg (62%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/zz_-32_48.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_40.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_48.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/zzz_-32_56.jpg (78%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_1/zzzz_-32_48.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_2/-31_68.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_2/-31_69.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_2/z_-32_68.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_2/zz_-32_68.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_2/zzzz_-32_64.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-1_2/zzzzz_-32_64.jpg (77%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-33_53.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_47.jpg (91%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-34_48.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_47.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-36_48.jpg (92%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-37_48.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-39_38.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-39_39.jpg (69%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-40_38.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-40_39.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-41_38.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-41_39.jpg (64%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-43_42.jpg (92%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-43_44.jpg (91%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-43_54.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-44_42.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-45_41.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-45_42.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-46_40.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-46_41.jpg (61%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-48_43.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-49_44.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-53_47.jpg (92%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-57_46.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/-58_46.jpg (92%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-34_48.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_46.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-36_48.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-38_48.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-40_38.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-40_44.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-42_38.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-44_44.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-44_54.jpg (73%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-46_40.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-46_42.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-50_44.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-52_48.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-54_48.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/z_-58_46.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-36_48.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-40_44.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-40_48.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-44_44.jpg (78%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-48_40.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-48_44.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-52_44.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-52_48.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zz_-56_48.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-40_40.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-40_48.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-48_40.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-56_48.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-56_56.jpg (74%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzz_-64_48.jpg (76%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzz_-48_32.jpg (72%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzz_-48_48.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzz_-64_48.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_1/zzzzz_-64_32.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_2/zzzzz_-64_64.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-2_2/zzzzzz_-64_64.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-3_1/z_-68_44.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-3_1/zz_-68_44.jpg (93%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-3_1/zzzz_-80_48.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-3_2/zzzzz_-96_64.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/-4_2/zzzzzz_-128_64.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/12_67.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/13_67.jpg (91%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/26_79.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/z_12_66.jpg (83%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/z_12_68.jpg (62%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/z_14_68.jpg (75%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/zz_12_68.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/0_2/zz_24_80.jpg (62%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/32_79.jpg (78%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/39_75.jpg (65%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/40_69.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/53_78.jpg (91%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/53_79.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/53_80.jpg (74%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_81.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_82.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_83.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_84.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_85.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_86.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_87.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/53_88.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/54_80.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/54_81.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/54_82.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/54_83.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/54_85.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/54_86.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/54_87.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/54_88.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/55_75.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/55_76.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/55_80.jpg (90%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/55_81.jpg (91%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/55_82.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/55_83.jpg (68%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/55_84.jpg (63%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/55_85.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/55_86.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/55_87.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/55_88.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/55_89.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/z_52_78.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/z_52_80.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/z_52_82.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/z_52_84.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/z_52_86.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/z_52_88.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/z_54_76.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/z_54_80.jpg (89%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/z_54_82.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/z_54_84.jpg (74%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/z_54_86.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/z_54_88.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world/t/1_2/z_54_90.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world/t/1_2/zz_32_80.jpg (78%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/-2_0.jpg (80%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/-8_5.jpg (72%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/-8_6.jpg (72%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/-8_7.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/-9_5.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/-9_6.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/z_-10_6.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/z_-2_0.jpg (88%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/z_-8_6.jpg (79%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/zz_-12_8.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/zz_-4_0.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/zzz_-16_8.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/zzz_-8_0.jpg (81%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/zzz_-8_8.jpg (72%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/flat/-1_0/zzzz_-16_0.jpg (61%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-18_12.jpg (68%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-1_25.jpg (72%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-1_8.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-2_27.jpg (75%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-2_28.jpg (62%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_19.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_20.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_21.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_22.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_23.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_24.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_25.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_26.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_27.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_28.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_29.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_30.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_31.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-3_8.jpg (82%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_19.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_20.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_21.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_22.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_23.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_24.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_25.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_26.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_27.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_28.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_29.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_30.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/-4_31.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-18_12.jpg (79%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-2_28.jpg (70%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-4_20.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-4_22.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-4_24.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-4_26.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-4_28.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/z_-4_30.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/zz_-4_20.jpg (85%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/zz_-4_28.jpg (66%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/zz_-4_8.jpg (84%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/zz_-8_8.jpg (75%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/zzz_-8_24.jpg (71%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/zzz_-8_8.jpg (87%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_0/zzzz_-32_16.jpg (60%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/-3_32.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/-3_33.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/-4_32.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/-4_33.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/-4_34.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/z_-4_32.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  create mode 100644 smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/z_-4_34.jpg
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/zzzz_-16_32.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/-1_1/zzzzz_-32_32.jpg (86%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/0_0/0_25.jpg (76%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/0_0/z_0_26.jpg (77%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/0_0/zz_0_28.jpg (64%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/plugins/dynmap/web/tiles/world_nether/nt/0_1/zzzz_0_32.jpg (67%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/level.dat (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/level.dat_old (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/playerdata/4154b739-537f-4a57-9daa-8c3cf5057e75.dat_old (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/playerdata/f4d9067d-8749-49e3-8b33-0c879bad2c44.dat (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/playerdata/f4d9067d-8749-49e3-8b33-0c879bad2c44.dat_old (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/stats/4154b739-537f-4a57-9daa-8c3cf5057e75.json (99%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world/stats/f4d9067d-8749-49e3-8b33-0c879bad2c44.json (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world_nether/level.dat (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world_nether/level.dat_old (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world_the_end/level.dat (100%)
+[10:04:00] [Craft Scheduler Thread - 420/INFO]: [Essentials]  rewrite smp/world_the_end/level.dat_old (97%)
+[10:04:02] [Server thread/INFO]: bruhTM_ has made the advancement [The Parrots and the Bats]
+[10:04:24] [Craft Scheduler Thread - 420/INFO]: [Essentials] To https://github.com/exynos-mans/SMP-backup.git
+[10:04:24] [Craft Scheduler Thread - 420/INFO]: [Essentials]    d3c6b5d2b..ec31356e9  1.16.5-#1 -> 1.16.5-#1
+[10:04:24] [Server thread/INFO]: Automatic saving is now enabled
+[10:04:24] [Server thread/INFO]: [Essentials] Backup finished.
+[10:04:25] [Async Chat Thread - #7/INFO]: <HaxorBeing> what
+[10:04:32] [Async Chat Thread - #7/INFO]: <HaxorBeing> idk
+[10:04:38] [Async Chat Thread - #7/INFO]: <HaxorBeing> no
+[10:05:38] [Server thread/INFO]: HaxorBeing issued server command: /sethome mushroom
+[10:05:59] [Async Chat Thread - #8/INFO]: <HaxorBeing> mushroom forest
+[10:06:21] [Async Chat Thread - #8/INFO]: <HaxorBeing> ocean!!
+[10:10:08] [Async Chat Thread - #9/INFO]: <HaxorBeing> i found a new village
+[10:10:39] [Server thread/INFO]: HaxorBeing issued server command: /sethome village3
+[10:10:46] [Server thread/INFO]: [Essentials] Backup started.
+[10:10:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[10:10:47] [Server thread/INFO]: Saved the game
+[10:10:47] [Server thread/INFO]: Automatic saving is now disabled
