@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-07-06 10:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2022-06-21 10:54:48 +0000"
@@ -392,6 +398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-07-06 10:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2022-06-30 09:31:27 +0000"
@@ -413,6 +425,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-22 09:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-07-06 10:17:53 +0000"
     },
     "done": true
   },
@@ -440,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2022-07-06 10:19:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-06-21 10:56:17 +0000"
@@ -461,6 +485,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-06-22 09:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-07-06 10:17:53 +0000"
     },
     "done": true
   },
@@ -611,6 +641,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-06-21 11:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2022-07-06 10:19:15 +0000"
     },
     "done": true
   },
@@ -1085,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-07-06 10:17:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-06-28 11:25:57 +0000"
@@ -1268,6 +1310,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-22 09:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-07-06 10:17:53 +0000"
     },
     "done": true
   },
@@ -1553,6 +1601,7 @@
       "minecraft:forest": "2022-06-21 10:36:08 +0000",
       "minecraft:mountains": "2022-06-21 10:53:16 +0000",
       "minecraft:taiga": "2022-06-22 09:16:33 +0000",
+      "minecraft:giant_tree_taiga": "2022-07-06 10:18:07 +0000",
       "minecraft:snowy_tundra": "2022-06-21 10:38:33 +0000",
       "minecraft:taiga_hills": "2022-06-28 10:30:37 +0000",
       "minecraft:frozen_river": "2022-06-28 11:22:46 +0000",
@@ -1862,6 +1911,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2022-06-21 10:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-07-06 10:17:53 +0000"
     },
     "done": true
   },
