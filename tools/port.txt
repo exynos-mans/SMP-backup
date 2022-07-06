@@ -1,7 +1,7 @@
-t=2022-07-05T11:32:15+0000 lvl=info msg="no configuration paths supplied"
-t=2022-07-05T11:32:15+0000 lvl=info msg="using configuration at default config path" path=/home/gitpod/.config/ngrok/ngrok.yml
-t=2022-07-05T11:32:15+0000 lvl=info msg="open config file" path=/home/gitpod/.config/ngrok/ngrok.yml err=nil
-t=2022-07-05T11:32:15+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
-t=2022-07-05T11:32:15+0000 lvl=info msg="tunnel session started" obj=tunnels.session
-t=2022-07-05T11:32:15+0000 lvl=info msg="client session established" obj=csess id=28f7c86024ec
-t=2022-07-05T11:32:15+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:25565 url=tcp://4.tcp.eu.ngrok.io:14152
+t=2022-07-06T08:53:06+0000 lvl=info msg="no configuration paths supplied"
+t=2022-07-06T08:53:06+0000 lvl=info msg="using configuration at default config path" path=/home/gitpod/.config/ngrok/ngrok.yml
+t=2022-07-06T08:53:06+0000 lvl=info msg="open config file" path=/home/gitpod/.config/ngrok/ngrok.yml err=nil
+t=2022-07-06T08:53:06+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
+t=2022-07-06T08:53:06+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2022-07-06T08:53:06+0000 lvl=info msg="client session established" obj=csess id=155f1626566d
+t=2022-07-06T08:53:06+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=//localhost:25565 url=tcp://2.tcp.eu.ngrok.io:19641
